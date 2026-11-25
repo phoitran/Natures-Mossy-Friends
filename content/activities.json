@@ -1,0 +1,3813 @@
+[
+  {
+    "id": "SPR-01",
+    "title": "A tiny woodland village",
+    "subtitle": "A little world. A very big imagination.",
+    "description": "Build a low twig shelter, a leafy roof and a winding pebble path on a tray. Everything rests in place, so the village can be rebuilt tomorrow.",
+    "season": "spring",
+    "ages": [
+      "little",
+      "young"
+    ],
+    "together": true,
+    "minutes": 30,
+    "prepMinutes": 5,
+    "setting": "Outdoors or on a tray",
+    "difficulty": "A little adventure",
+    "tags": [
+      "twigs",
+      "leaves",
+      "stones"
+    ],
+    "materials": [
+      {
+        "name": "Smooth fallen twigs, 10–15 cm long",
+        "quantity": "8",
+        "kind": "nature"
+      },
+      {
+        "name": "Broad fallen leaves",
+        "quantity": "4",
+        "kind": "nature"
+      },
+      {
+        "name": "Flat stones, too large to swallow",
+        "quantity": "8",
+        "kind": "nature"
+      },
+      {
+        "name": "Small cardboard box, about 10 cm high",
+        "quantity": "1",
+        "kind": "home"
+      },
+      {
+        "name": "Reusable tray, about 30 × 40 cm",
+        "quantity": "1",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult checks all collected pieces and keeps the shelter low. This is a miniature pretend home, never a structure for a child or animal.",
+    "littleRole": "Arrange a path and leaf garden around an adult-prepared shelter.",
+    "youngRole": "Plan the village and balance the twig roof.",
+    "togetherPlan": "One maker arranges the paths while another builds the shelter. Decide together where the door and garden should be.",
+    "steps": [
+      {
+        "title": "Map your little world",
+        "text": "Place the cardboard box toward the back of the tray. Leave a hand-width of space in front for a path. Point to the door, garden and path before building.",
+        "littleTask": "Choose where the path begins.",
+        "youngTask": "Plan a clear route from the edge to the door.",
+        "adultTask": "Check the tray and natural pieces for sharp edges.",
+        "diagram": "/assets/steps/SPR-01-1.svg"
+      },
+      {
+        "title": "Lean on a strong base",
+        "text": "Lay six twigs side by side, with one end resting on the box and the other on the tray. The box supports a sloping roof. Keep the twig ends on the tray; rearrange any that roll.",
+        "littleTask": "Pass the adult one twig at a time.",
+        "youngTask": "Place the twigs evenly, using the box as a support.",
+        "adultTask": "Set up the roof for Little Makers and check it is stable.",
+        "diagram": "/assets/steps/SPR-01-2.svg"
+      },
+      {
+        "title": "Give it a leafy roof",
+        "text": "Lay three broad leaves across the twigs, overlapping their edges like roof tiles. Place one spare twig across the leaves to keep them in place. If a leaf slips, flatten the roof slope.",
+        "littleTask": "Choose the roof leaves.",
+        "youngTask": "Overlap leaves so they cover the gaps.",
+        "diagram": "/assets/steps/SPR-01-3.svg"
+      },
+      {
+        "title": "Add a path and garden",
+        "text": "Place the eight flat stones in a winding line in front of the shelter. Put the remaining leaf beside the path as a tiny garden. Leave the doorway clear.",
+        "littleTask": "Arrange the stepping stones.",
+        "youngTask": "Shape the path and suggest a garden layout.",
+        "diagram": "/assets/steps/SPR-01-4.svg"
+      },
+      {
+        "title": "Tell the village story",
+        "text": "Look at the village from tray height. Adjust loose pieces, give the village a name and take turns describing who might live there. Keep the tray level when moving it.",
+        "littleTask": "Name a village resident.",
+        "youngTask": "Explain the route through your village.",
+        "adultTask": "Carry the tray and collect any loose pieces.",
+        "diagram": "/assets/steps/SPR-01-5.svg"
+      }
+    ],
+    "keep": "Keep on a dry indoor tray for a short time; remove damp or deteriorating materials.",
+    "cleanup": "Take the roof apart, reuse the box and tray, and sort natural materials according to local collection and disposal rules.",
+    "extension": "Build a second low shelter using another box and connect it with a path.",
+    "examples": [
+      "One-house garden",
+      "Two-house village",
+      "Village with a longer winding path"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "SPR-02",
+    "title": "A spring nature crown",
+    "subtitle": "Wear a little bit of the woodland.",
+    "description": "Arrange fallen leaves on a paper band for a crown full of spring colour. An adult fits the band and helps with the joins.",
+    "season": "spring",
+    "ages": [
+      "little",
+      "young"
+    ],
+    "together": true,
+    "minutes": 20,
+    "prepMinutes": 5,
+    "setting": "At a table",
+    "difficulty": "Easy does it",
+    "tags": [
+      "leaves",
+      "flowers"
+    ],
+    "materials": [
+      {
+        "name": "Fallen leaves from plants an adult can identify",
+        "quantity": "6–8",
+        "kind": "nature"
+      },
+      {
+        "name": "Card strips, 5 cm wide",
+        "quantity": "2 × 30 cm",
+        "kind": "home"
+      },
+      {
+        "name": "Paper tape, cut into short pieces",
+        "quantity": "12 pieces",
+        "kind": "home"
+      },
+      {
+        "name": "Suitable garden flowers, collected with permission",
+        "quantity": "2 optional",
+        "kind": "nature"
+      }
+    ],
+    "adultNote": "An adult checks plants, fits the band and removes sharp stems. Wear only while sitting or standing calmly; take it off before active play.",
+    "littleRole": "Choose leaves and place them on an adult-prepared band.",
+    "youngRole": "Plan a repeating pattern and tape stems to the band.",
+    "togetherPlan": "Choose a shared colour story. Older makers plan the pattern; younger makers choose and arrange the leaves.",
+    "steps": [
+      {
+        "title": "Make a band",
+        "text": "Lay the two card strips end to end with a 3 cm overlap. Tape both sides of the overlap. Keep the band flat until the leaves are attached.",
+        "littleTask": "Choose the paper colour.",
+        "youngTask": "Line up the card edges.",
+        "adultTask": "Prepare the strips and help secure the overlap.",
+        "diagram": "/assets/steps/SPR-02-1.svg"
+      },
+      {
+        "title": "Try a leafy pattern",
+        "text": "Lay six to eight leaves along the band. Let leaf tips point upward and keep all stems within the card width. Leave 5 cm clear at both ends.",
+        "littleTask": "Arrange large and small leaves.",
+        "youngTask": "Try an alternating colour or size pattern.",
+        "diagram": "/assets/steps/SPR-02-2.svg"
+      },
+      {
+        "title": "Tape each stem",
+        "text": "Lift one leaf at a time. Put a short tape strip across its stem and onto the card, then add a second strip if it moves. Add the optional flowers the same way.",
+        "littleTask": "Hold a leaf in its chosen spot.",
+        "youngTask": "Tape stems without covering the leaf shapes.",
+        "adultTask": "Attach pieces for younger makers and cover any stiff stem ends.",
+        "diagram": "/assets/steps/SPR-02-3.svg"
+      },
+      {
+        "title": "Check the fit",
+        "text": "An adult loosely wraps the band around the maker’s head, overlaps the plain ends and marks the fit. Remove it, then tape the overlap inside and outside.",
+        "littleTask": "Tell the adult if it feels comfortable.",
+        "youngTask": "Help hold the marked overlap.",
+        "adultTask": "Fit and close the crown without pinching hair or skin.",
+        "diagram": "/assets/steps/SPR-02-4.svg"
+      },
+      {
+        "title": "Meet your woodland character",
+        "text": "Put the crown on for a short, supervised moment. Give it a name, admire the pattern and take it off before running, climbing or resting.",
+        "littleTask": "Name your crown.",
+        "youngTask": "Tell a story about the pattern.",
+        "adultTask": "Check for loose leaves and take the crown off for active play.",
+        "diagram": "/assets/steps/SPR-02-5.svg"
+      }
+    ],
+    "keep": "Display flat on a dry shelf. Leaves will curl and change colour.",
+    "cleanup": "Remove tape, reuse or sort the card, and dispose of natural pieces appropriately.",
+    "extension": "Draw a matching leaf badge on a spare piece of paper.",
+    "examples": [
+      "Leafy green crown",
+      "Flower-and-leaf crown",
+      "Two-colour repeating crown"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "SPR-03",
+    "title": "Meet the mud creatures",
+    "subtitle": "A little squish. A lot of personality.",
+    "description": "Shape a small, low mud creature and press in its expression with a smooth twig. No tiny plastic eyes or permanent decoration needed.",
+    "season": "spring",
+    "ages": [
+      "little"
+    ],
+    "together": false,
+    "minutes": 20,
+    "prepMinutes": 5,
+    "setting": "Outside, with handwashing nearby",
+    "difficulty": "Easy does it",
+    "tags": [
+      "soil",
+      "water",
+      "twigs"
+    ],
+    "materials": [
+      {
+        "name": "Known, clean soil suitable for supervised play",
+        "quantity": "1 cup",
+        "kind": "nature"
+      },
+      {
+        "name": "Clean water",
+        "quantity": "¼ cup, added gradually",
+        "kind": "home"
+      },
+      {
+        "name": "Smooth twig with blunt end",
+        "quantity": "1",
+        "kind": "nature"
+      },
+      {
+        "name": "Reusable tray, bowl and spoon",
+        "quantity": "1 set",
+        "kind": "home"
+      },
+      {
+        "name": "Soap and running water",
+        "quantity": "Access nearby",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult selects the soil and supervises contact. Avoid unknown or contaminated soil and keep mud away from mouths and eyes. Use clean water and wash hands afterward.",
+    "littleRole": "Shape a low creature and press in its face.",
+    "youngRole": "",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Mix a little mud",
+        "text": "Put one cup of soil in the bowl. Add one tablespoon of water and stir. Repeat only until a squeezed handful holds together. Use less than the full quarter-cup if it already holds.",
+        "littleTask": "Stir with the spoon.",
+        "youngTask": "",
+        "adultTask": "Choose the soil and help add water a little at a time.",
+        "diagram": "/assets/steps/SPR-03-1.svg"
+      },
+      {
+        "title": "Make a low body",
+        "text": "Place a small handful on the tray. Press it into a mound no taller than about 5 cm. If it slumps, mix in a little dry soil; if it crumbles, add a few drops of water.",
+        "littleTask": "Press a round or long body.",
+        "youngTask": "",
+        "adultTask": "Help adjust the mixture if it will not hold.",
+        "diagram": "/assets/steps/SPR-03-2.svg"
+      },
+      {
+        "title": "Pinch ears or a tail",
+        "text": "Use finger and thumb to pinch two ears from the same mound, or stretch one end into a short tail. Keep details thick and close to the body so they do not break off.",
+        "littleTask": "Choose ears, a tail or both.",
+        "youngTask": "",
+        "diagram": "/assets/steps/SPR-03-3.svg"
+      },
+      {
+        "title": "Press in a personality",
+        "text": "Use the blunt end of the twig to make two shallow eye dents and a curved smile. Press short lines into the surface for fur or scales. Set the twig down between turns.",
+        "littleTask": "Choose a friendly expression.",
+        "youngTask": "",
+        "adultTask": "Help keep the tool away from faces.",
+        "diagram": "/assets/steps/SPR-03-4.svg"
+      },
+      {
+        "title": "Introduce your new friend",
+        "text": "Leave the creature on its tray. Give it a name and tell one thing it likes. Gather tools and wash hands with soap and running water before another activity.",
+        "littleTask": "Name your mud friend.",
+        "youngTask": "",
+        "adultTask": "Help with handwashing and contain muddy cleanup.",
+        "diagram": "/assets/steps/SPR-03-5.svg"
+      }
+    ],
+    "keep": "Mud is temporary and may crack as it dries. A photograph or drawing can preserve its character.",
+    "cleanup": "Keep soil out of indoor drains. Separate tools and dispose of or return suitable soil only where permitted.",
+    "extension": "Make a flatter creature next time and compare its textures.",
+    "examples": [
+      "Round mud monster",
+      "Low coiled snail",
+      "Flat mud turtle"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "SPR-04",
+    "title": "Leaf-rubbing discoveries",
+    "subtitle": "Find the hidden patterns in a leaf.",
+    "description": "Reveal veins and edges by rubbing a wax crayon sideways over paper with a leaf underneath.",
+    "season": "spring",
+    "ages": [
+      "little"
+    ],
+    "together": false,
+    "minutes": 15,
+    "prepMinutes": 3,
+    "setting": "At a table",
+    "difficulty": "Easy does it",
+    "tags": [
+      "leaves",
+      "paper",
+      "crayons"
+    ],
+    "materials": [
+      {
+        "name": "Flat fallen leaves with visible veins",
+        "quantity": "3",
+        "kind": "nature"
+      },
+      {
+        "name": "Plain thin paper",
+        "quantity": "2 sheets",
+        "kind": "home"
+      },
+      {
+        "name": "Wax crayons with paper wrappers removed",
+        "quantity": "2–3",
+        "kind": "home"
+      },
+      {
+        "name": "Paper tape",
+        "quantity": "4 short pieces",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult checks the plant pieces and prepares crayons. Use leaves that lie flat, with no thorns or irritating sap.",
+    "littleRole": "Hold the paper and discover a leaf pattern.",
+    "youngRole": "",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Feel the leaf pattern",
+        "text": "Set one leaf on the table with its bumpy underside facing up. Gently feel the raised veins with a fingertip. Choose a leaf that lies mostly flat.",
+        "littleTask": "Find the bumpy side.",
+        "youngTask": "",
+        "adultTask": "Check the leaves before handling.",
+        "diagram": "/assets/steps/SPR-04-1.svg"
+      },
+      {
+        "title": "Hide it under paper",
+        "text": "Lay a sheet of thin paper over the leaf. Put a small piece of paper tape at two corners of the sheet to keep it from sliding.",
+        "littleTask": "Cover the whole leaf.",
+        "youngTask": "",
+        "adultTask": "Help hold or tape the paper.",
+        "diagram": "/assets/steps/SPR-04-2.svg"
+      },
+      {
+        "title": "Turn the crayon sideways",
+        "text": "Lay the broad side of the crayon on the paper. Hold the paper with the other hand. Make two gentle practice strokes beside the leaf.",
+        "littleTask": "Use the side, not the pointed tip.",
+        "youngTask": "",
+        "adultTask": "Prepare the unwrapped crayon.",
+        "diagram": "/assets/steps/SPR-04-3.svg"
+      },
+      {
+        "title": "Rub and reveal",
+        "text": "Move the crayon back and forth across the hidden leaf with light pressure. Start at one edge and work across. Stop when the veins appear; pressing harder can hide the pattern.",
+        "littleTask": "Watch the leaf appear.",
+        "youngTask": "",
+        "diagram": "/assets/steps/SPR-04-4.svg"
+      },
+      {
+        "title": "Make a leafy page",
+        "text": "Lift the paper and move the leaf to a new spot. Try another crayon colour or a different leaf. Leave a little space around each print, then sign or name the artwork.",
+        "littleTask": "Choose the next colour.",
+        "youngTask": "",
+        "adultTask": "Remove tape gently at the end.",
+        "diagram": "/assets/steps/SPR-04-5.svg"
+      }
+    ],
+    "keep": "Keep the dry rubbing in a folder or display it indoors.",
+    "cleanup": "Reuse crayons and sort paper. Return or dispose of untreated leaves appropriately.",
+    "extension": "Combine three rubbings into the body and wings of an imaginary creature.",
+    "examples": [
+      "One large leaf print",
+      "Three-leaf colour study",
+      "Imaginary leafy creature"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "SPR-05",
+    "title": "Pressed-flower bookmarks",
+    "subtitle": "Save a small piece of spring.",
+    "description": "Press flowers until dry, arrange them on card, and seal the design under clear adhesive film. The drying stage takes several days.",
+    "season": "spring",
+    "ages": [
+      "young"
+    ],
+    "together": false,
+    "minutes": 25,
+    "prepMinutes": 5,
+    "setting": "Indoors",
+    "difficulty": "A little patience",
+    "tags": [
+      "flowers",
+      "paper",
+      "leaves"
+    ],
+    "materials": [
+      {
+        "name": "Small, suitable flowers or petals, collected with permission",
+        "quantity": "3–5",
+        "kind": "nature"
+      },
+      {
+        "name": "Plain absorbent paper",
+        "quantity": "4 sheets",
+        "kind": "home"
+      },
+      {
+        "name": "Heavy book used only for pressing",
+        "quantity": "1",
+        "kind": "home"
+      },
+      {
+        "name": "Card rectangle, 5 × 15 cm",
+        "quantity": "1",
+        "kind": "home"
+      },
+      {
+        "name": "Clear self-adhesive book-cover film, 7 × 17 cm",
+        "quantity": "2 pieces",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult identifies suitable plants, prepares the card and film, and checks flowers are fully dry before sealing. Never press unknown or irritating plants.",
+    "littleRole": "",
+    "youngRole": "Arrange and press flowers, then seal a simple design.",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Arrange flowers for pressing",
+        "text": "Place two sheets of absorbent paper inside the book. Lay petals and small flowers in one layer, leaving a finger-width between pieces. Avoid thick flower centres.",
+        "littleTask": "",
+        "youngTask": "Arrange a single layer with no overlaps.",
+        "adultTask": "Check the plant pieces and choose a suitable book.",
+        "diagram": "/assets/steps/SPR-05-1.svg"
+      },
+      {
+        "title": "Press and wait",
+        "text": "Cover with two more sheets of paper and close the book. Put it in a dry place under another heavy book. Check after 7 days; leave longer if pieces feel cool, soft or damp.",
+        "littleTask": "",
+        "youngTask": "Record the start date and wait for dry, papery flowers.",
+        "adultTask": "Help change damp paper and check for mould; discard spoiled pieces.",
+        "diagram": "/assets/steps/SPR-05-2.svg"
+      },
+      {
+        "title": "Plan the bookmark",
+        "text": "On the 5 × 15 cm card, arrange two or three fully dry pieces. Leave a 1 cm clear border. Try a single flower, a border or a petal pattern before fixing the design.",
+        "littleTask": "",
+        "youngTask": "Choose the final arrangement.",
+        "adultTask": "Prepare the card rectangle.",
+        "diagram": "/assets/steps/SPR-05-3.svg"
+      },
+      {
+        "title": "Seal the front",
+        "text": "An adult peels the backing from one film piece. Lower its sticky side onto the front of the card from one short edge to the other, smoothing gently over the flowers. Fold the extra film around the edges.",
+        "littleTask": "",
+        "youngTask": "Smooth from the middle outward without crushing flowers.",
+        "adultTask": "Prepare and position the film.",
+        "diagram": "/assets/steps/SPR-05-4.svg"
+      },
+      {
+        "title": "Seal the back and finish",
+        "text": "Apply the second film piece to the back. Fold its edges around to the front and smooth them flat. An adult trims any sticky overhang. Check the bookmark has smooth edges before putting it in a book.",
+        "littleTask": "",
+        "youngTask": "Inspect the edges and test it between pages.",
+        "adultTask": "Trim film and check for exposed adhesive.",
+        "diagram": "/assets/steps/SPR-05-5.svg"
+      }
+    ],
+    "keep": "Keep dry and out of strong sunlight; natural colours may fade.",
+    "cleanup": "Film and coated card are mixed materials; follow local disposal rules instead of composting them.",
+    "extension": "Make a second bookmark with a narrow repeating petal border.",
+    "examples": [
+      "One simple blossom",
+      "A narrow flower border",
+      "Mixed petals and leaves"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "Allow 7–14 days or longer for pressing; 25 minutes active making.",
+    "archived": true
+  },
+  {
+    "id": "SPR-06",
+    "title": "Meet the mud creatures",
+    "subtitle": "A tiny friend, a silly beast, or a monster of your own.",
+    "description": "Shape a handful of mud into a cute friend or a wonderfully scary monster. Bring it to life with stones, twigs, leaves and flowers. A simple round creature is just as special as one with lots of little details.",
+    "ages": [
+      "little",
+      "young"
+    ],
+    "together": true,
+    "minutes": 30,
+    "prepMinutes": 5,
+    "setting": "Outside or at a washable table",
+    "difficulty": "Make it simple or detailed",
+    "tags": [
+      "mud",
+      "soil",
+      "stones",
+      "twigs",
+      "leaves",
+      "flowers",
+      "creatures",
+      "spring"
+    ],
+    "materials": [
+      {
+        "name": "Clean, clay-rich soil approved by a grown-up",
+        "quantity": "About 2 cups",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Water, added slowly",
+        "quantity": "A small cup",
+        "kind": "home",
+        "optional": false
+      },
+      {
+        "name": "Reusable bowl, spoon and washable tray",
+        "quantity": "1 of each",
+        "kind": "home",
+        "optional": false
+      },
+      {
+        "name": "Smooth stones too large to swallow, for eyes or noses",
+        "quantity": "2–6",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Blunt fallen twigs, loose leaves or grass",
+        "quantity": "A small handful",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Flowers identified and approved by a grown-up",
+        "quantity": "2–4, optional",
+        "kind": "nature",
+        "optional": true
+      }
+    ],
+    "adultNote": "Choose clean soil away from animal waste, sprayed areas and roads. Check flowers and loose pieces; skip unknown berries and sharp twigs. Keep mud away from mouths and eyes. Choose large features for younger makers and wash hands afterwards.",
+    "littleRole": "Roll a simple body and choose eyes, ears and a funny face.",
+    "youngRole": "Shape several joined pieces and add a tail, patterned spines or an unusual expression.",
+    "togetherPlan": "A Little Maker shapes the body and chooses the face. A Young Creator helps attach ears or limbs and adds details. Give the creature a name together.",
+    "steps": [
+      {
+        "title": "Gather a creature collection",
+        "text": "Set out your bowl and tray. With a grown-up, gather clean soil, smooth stones and a few blunt fallen twigs, leaves or approved flowers. Decide which pieces could become eyes, ears, hair or spines.",
+        "littleTask": "Choose two eyes and some ears or hair.",
+        "youngTask": "Sort pieces by the features they could make.",
+        "adultTask": "Approve the soil and decorations before children handle them.",
+        "diagram": "/assets/steps/SPR-06-1.svg"
+      },
+      {
+        "title": "Mix mud that holds its shape",
+        "text": "Spoon soil into the bowl. Add a little water and stir, then squeeze a small handful. It should hold a ball without dripping. Add more soil if it is runny. If sandy soil keeps crumbling, try clean clay-rich soil or make a flat creature.",
+        "littleTask": "Squeeze a little mud into a ball.",
+        "youngTask": "Adjust the mix with small amounts of soil or water.",
+        "adultTask": "Help check the texture; ordinary mud will not behave like modelling clay.",
+        "diagram": "/assets/steps/SPR-06-2.svg"
+      },
+      {
+        "title": "Shape a body and a head",
+        "text": "Press a mud ball onto the tray so it has a wide, steady base. Keep it as one round creature, or add a smaller head. Press joined pieces firmly together and smooth the seam with a damp finger. A low oval makes a good hedgehog.",
+        "littleTask": "Make one round or oval body.",
+        "youngTask": "Add a head, small feet or a short tail and smooth the joins.",
+        "adultTask": "",
+        "diagram": "/assets/steps/SPR-06-3.svg"
+      },
+      {
+        "title": "Bring your creature to life",
+        "text": "Gently push suitable stones into the mud for eyes or a nose. Add leaf ears, short twig spines, or grass and flowers for hair. Keep decorations light. Make a friendly smile, a silly frown or a monster face that makes you laugh.",
+        "littleTask": "Add the eyes and your favourite decoration.",
+        "youngTask": "Try leaf wings, twig whiskers or a row of small mud teeth.",
+        "adultTask": "Help press pieces in without poking hands; remove any sharp or unstable parts.",
+        "diagram": "/assets/steps/SPR-06-4.svg"
+      },
+      {
+        "title": "Meet your new mud friend",
+        "text": "Give your creature a name and show what it can do in an imaginary story. Try a second creature with a different shape or mood. Take a picture on the tray before it dries; cracks and crumbles are part of temporary mud art.",
+        "littleTask": "Name your friend and invent its favourite game.",
+        "youngTask": "Compare a simple creature with one that has more details.",
+        "adultTask": "Help photograph the creation, tidy the space and wash hands.",
+        "diagram": "/assets/steps/SPR-06-5.svg"
+      }
+    ],
+    "keep": "Enjoy on the tray during play. Mud may crack or crumble as it dries; this is a temporary creation, not a waterproof toy.",
+    "cleanup": "Remove decorations, return loose natural pieces only where permitted, and wipe mud into a bin or approved soil area before washing tools. Wash hands with soap and water.",
+    "extension": "Invent a whole family: a shy leaf-eared friend, a prickly hedgehog and a cheerful grass-haired monster.",
+    "examples": [
+      "A leaf-eared mud bunny",
+      "A twig-spined hedgehog",
+      "A silly mud monster"
+    ],
+    "waitLabel": "No drying needed for play. Mud changes as it dries.",
+    "natureNote": "Choose loose, fallen materials where collecting is allowed. Ask a grown-up before gathering flowers, leave plenty for insects, and protect roots and tiny habitats.",
+    "season": "spring",
+    "showInstructions": true,
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed."
+  },
+  {
+    "id": "SPR-07",
+    "title": "Dandelion Crown",
+    "subtitle": "Cross, wrap, and grow a circle of sunshine.",
+    "description": "Weave long-stemmed yellow dandelions into a flower crown using a repeating wrap-and-fold technique. Add one flower at a time, then join the chain into a loose circle. This takes patient fingers and a little practice.",
+    "ages": [
+      "young"
+    ],
+    "together": false,
+    "minutes": 40,
+    "prepMinutes": 10,
+    "setting": "Outside or at a table",
+    "difficulty": "A bigger challenge",
+    "tags": [
+      "flowers",
+      "dandelions",
+      "crown",
+      "weaving",
+      "spring"
+    ],
+    "materials": [
+      {
+        "name": "Fresh dandelions with flexible stems about 15–20 cm long",
+        "quantity": "About 25–40; size will vary",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Flat work surface or a reusable tray",
+        "quantity": "1",
+        "kind": "home",
+        "optional": false
+      },
+      {
+        "name": "Short piece of soft cotton string, only if the final join needs help",
+        "quantity": "1 small piece",
+        "kind": "home",
+        "optional": true
+      },
+      {
+        "name": "Child-safe scissors for an adult-assisted string trim",
+        "quantity": "1 pair",
+        "kind": "home",
+        "optional": true
+      }
+    ],
+    "adultNote": "Use dandelions, not daffodils. A grown-up identifies the flowers, checks for sensitivities, and chooses an unsprayed place where picking is allowed. Leave plenty for insects. Keep sap away from eyes and mouths; stop if skin feels irritated. Help with the join and any scissors. The crown should sit loosely, without ties under the chin.",
+    "littleRole": "",
+    "youngRole": "Hold the growing bundle, repeat the stem wrap and make a comfortable circular join.",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Choose long, flexible stems",
+        "text": "Ask a grown-up to identify dandelions and approve a place to pick a few. Keep the long stems attached and set the flowers on a tray. Choose fresh stems that bend gently. Leave plenty of flowers growing for insects.",
+        "littleTask": "",
+        "youngTask": "Choose flexible stems and set out two flowers to practise.",
+        "adultTask": "These yellow fluffy flowers are dandelions. Do not substitute daffodils or unidentified flowers.",
+        "diagram": "/assets/steps/SPR-07-1.svg"
+      },
+      {
+        "title": "Cross two flowers",
+        "text": "Hold the first flower with its head on the left and its stem pointing right. Put the second flower just beside the first, with its stem crossing underneath the first stem and hanging down. Pinch the crossing close to the flower heads.",
+        "littleTask": "",
+        "youngTask": "Keep the heads close and hold the crossing with your thumb and finger.",
+        "adultTask": "Demonstrate the crossing slowly, with both hands visible.",
+        "diagram": "/assets/steps/SPR-07-2.svg"
+      },
+      {
+        "title": "Wrap, then lay the stem alongside",
+        "text": "Keep pinching the crossing. Bring the hanging stem up and around the first stem, passing it between the two flower heads. Fold its long tail back to the right, alongside the first stem. Gently snug the loop under the heads without pulling it tight enough to snap.",
+        "littleTask": "",
+        "youngTask": "Follow the close-up: cross underneath, wrap up and around, then lay the tail to the right.",
+        "adultTask": "Pause after each movement. If a stem breaks, remove that flower and try a fresher, more flexible one.",
+        "diagram": "/assets/steps/SPR-07-3.svg"
+      },
+      {
+        "title": "Add one flower and repeat",
+        "text": "Place a new flower beside the last one, with its stem underneath the growing bundle. Repeat the same wrap, then lay the tail alongside the other stems. Keep the heads close and curve the chain gently as it grows. Pause often to check its length around the top of the head.",
+        "littleTask": "",
+        "youngTask": "Repeat the same motion, adding only one flower each time.",
+        "adultTask": "Help hold the bundle if it gets slippery. Keep the chain loose enough to fit comfortably.",
+        "diagram": "/assets/steps/SPR-07-4.svg"
+      },
+      {
+        "title": "Join your sunshine circle",
+        "text": "Overlap the two ends to make a loose crown. Hold the overlap and thread the long remaining stems through nearby stem loops, wrapping and tucking them back two or three times. Ask a grown-up to secure a slipping join with a short cotton tie if needed. Try it on gently or display it on the tray.",
+        "littleTask": "",
+        "youngTask": "Tuck the ends neatly and check that the crown rests comfortably.",
+        "adultTask": "Check the join and fit. Trim any optional string ends; never add a tie around the neck.",
+        "diagram": "/assets/steps/SPR-07-5.svg"
+      }
+    ],
+    "keep": "Enjoy the crown while the flowers are fresh. It will wilt naturally; a photo keeps the memory. A tray display is a good choice if you prefer not to wear flowers.",
+    "cleanup": "Remove and take home any string. Compost flowers where appropriate, clear the making space, and wash hands after handling sap.",
+    "extension": "Make a tiny practice chain before a full crown, or create a smaller ring to decorate a nature table.",
+    "examples": [
+      "A woven circle of sunshine",
+      "A fuller flower crown",
+      "A small dandelion crown"
+    ],
+    "waitLabel": "Practise one wrap before making a full crown.",
+    "natureNote": "Pick only a few flowers identified by a grown-up, where picking is allowed. Leave plenty for insects and keep roots and habitats undisturbed.",
+    "season": "spring",
+    "showInstructions": true,
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed."
+  },
+  {
+    "id": "SPR-08",
+    "title": "Muddy Faces",
+    "subtitle": "Give a tree a grin—or make a face on the ground.",
+    "description": "Press a soft mud face against a tree or lay one flat on the ground. Add silly features and leafy, twiggy or flowery hair. Make it sleepy, surprised, fierce or funny, then change it as often as you like.",
+    "ages": [
+      "little",
+      "young"
+    ],
+    "together": true,
+    "minutes": 25,
+    "prepMinutes": 5,
+    "setting": "Outside at a permitted tree or flat patch of ground",
+    "difficulty": "Easy does it",
+    "tags": [
+      "mud",
+      "soil",
+      "faces",
+      "trees",
+      "stones",
+      "leaves",
+      "flowers",
+      "spring"
+    ],
+    "materials": [
+      {
+        "name": "Clean, clay-rich soil approved by a grown-up",
+        "quantity": "About 2 cups",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Water, added a little at a time",
+        "quantity": "A small cup",
+        "kind": "home",
+        "optional": false
+      },
+      {
+        "name": "Reusable bowl and spoon",
+        "quantity": "1 of each",
+        "kind": "home",
+        "optional": false
+      },
+      {
+        "name": "Smooth stones too large to swallow",
+        "quantity": "2–5",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Blunt fallen twigs and loose leaves or grass",
+        "quantity": "A small handful",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Flowers identified and approved by a grown-up",
+        "quantity": "A few, optional",
+        "kind": "nature",
+        "optional": true
+      }
+    ],
+    "adultNote": "Ask permission before putting mud on a tree. Choose a small patch of sturdy, rough bark within easy reach; avoid young trees, damaged bark, moss and lichens. Never scrape bark or push twigs into it. Use the ground if mud will not stay. Check soil and decorations, keep mud away from mouths and eyes, and wash hands afterwards.",
+    "littleRole": "Press a flat face and choose a mouth and some funny hair.",
+    "youngRole": "Change eyebrows, eyes and mouths to show different feelings.",
+    "togetherPlan": "A Little Maker presses the mud shape and picks the hair. A Young Creator adds features and helps show a new expression. Tell a story about the face together.",
+    "steps": [
+      {
+        "title": "Find a place for a face",
+        "text": "With a grown-up, choose an approved tree with rough, sturdy bark at a comfortable height, or a flat patch of ground. Leave living moss, lichens and roots alone. Set your decorations nearby and imagine the expression you want to make.",
+        "littleTask": "Choose a place you can reach easily.",
+        "youngTask": "Plan where the eyes, nose, mouth and hair will go.",
+        "adultTask": "Approve the tree and location. Use the ground if the bark is unsuitable or permission is unavailable.",
+        "diagram": "/assets/steps/SPR-08-1.svg"
+      },
+      {
+        "title": "Mix thick, sticky mud",
+        "text": "Put soil in the bowl and add water a little at a time. Stir until a handful holds together without dripping. If it slides off your hand, add more soil. Clay-rich soil usually holds better; you can always make the face flat if your mix is crumbly.",
+        "littleTask": "Squeeze a small ball of mud.",
+        "youngTask": "Adjust the mix until it holds a flattened shape.",
+        "adultTask": "Check that the soil is clean and the mix is comfortable to handle.",
+        "diagram": "/assets/steps/SPR-08-2.svg"
+      },
+      {
+        "title": "Press a flat face shape",
+        "text": "Gently press a small, thick oval of mud onto the approved bark, or flatten it on the ground. Smooth the edges with your fingers. Keep it low and fairly flat so it stays in place. If it slips, move your face to the ground instead of forcing it onto the tree.",
+        "littleTask": "Pat the mud into a round or oval face.",
+        "youngTask": "Shape cheeks or add a small mud nose.",
+        "adultTask": "Do not scrape bark, hammer anything in or cover a large area of the trunk.",
+        "diagram": "/assets/steps/SPR-08-3.svg"
+      },
+      {
+        "title": "Add a face and wild hair",
+        "text": "Press smooth stones lightly into the mud for eyes and a nose. A curved twig can make a smile. Arrange loose leaves, grass or approved flowers above the face for hair. Push decorations into the mud only, never into the bark.",
+        "littleTask": "Choose a smile and add leafy hair.",
+        "youngTask": "Tilt eyebrows or change the mouth to create a different mood.",
+        "adultTask": "Help place suitable large features and remove any sharp pieces.",
+        "diagram": "/assets/steps/SPR-08-4.svg"
+      },
+      {
+        "title": "Try a new expression",
+        "text": "Step back and meet your muddy character. Move one eyebrow or turn the mouth to make a new expression. Take a picture of your favourite face, then gently remove the mud and decorations when play is finished.",
+        "littleTask": "Show how your face is feeling.",
+        "youngTask": "Make two expressions by moving only a few pieces.",
+        "adultTask": "Remove mud gently without scraping the tree; rinse lightly with plain water only if needed and permitted.",
+        "diagram": "/assets/steps/SPR-08-5.svg"
+      }
+    ],
+    "keep": "This is temporary art for your making session. Photograph it, then remove the mud and decorations gently.",
+    "cleanup": "Clear the face without scraping bark or disturbing plants. Take away anything you brought, clean tools, and wash hands with soap and water.",
+    "extension": "Create a happy face and a surprised face, or make a small family on the ground with different leafy hairstyles.",
+    "examples": [
+      "A leafy grin on a tree",
+      "A flower-haired ground face",
+      "A wild-haired woodland face"
+    ],
+    "waitLabel": "If mud slips from bark, make the face flat on the ground.",
+    "natureNote": "Choose loose, fallen materials where collecting is allowed. Ask a grown-up before gathering flowers, leave plenty for insects, and protect roots and tiny habitats.",
+    "season": "spring",
+    "showInstructions": true,
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed."
+  },
+  {
+    "id": "SPR-09",
+    "title": "Spring Fairy Garden",
+    "subtitle": "A flower-filled hideaway tucked beside a tree.",
+    "description": "Build a tiny spring garden with a shelter leaning against a tree, a stone path and a few colourful natural details. You can also use a stable rock for support or build a low shelter from stones. Let the examples spark your own little world.",
+    "ages": [
+      "young"
+    ],
+    "together": false,
+    "minutes": 50,
+    "prepMinutes": 10,
+    "setting": "Outside beside a permitted tree or stable rock",
+    "difficulty": "A bigger challenge",
+    "tags": [
+      "fairy garden",
+      "twigs",
+      "stones",
+      "leaves",
+      "flowers",
+      "building",
+      "spring"
+    ],
+    "materials": [
+      {
+        "name": "Short, sturdy, blunt fallen twigs about 10–20 cm long",
+        "quantity": "8–12",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Loose fallen bark pieces or broad fallen leaves",
+        "quantity": "3–6 small pieces",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Small stable stones, too large to swallow",
+        "quantity": "8–15",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Loose fallen greenery and adult-approved flowers",
+        "quantity": "A small handful",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Permitted clear space at a tree base or beside a stable rock",
+        "quantity": "About 40 × 40 cm",
+        "kind": "home",
+        "optional": false
+      },
+      {
+        "name": "Additional flat stones for an optional low rock shelter",
+        "quantity": "3–5",
+        "kind": "nature",
+        "optional": true
+      }
+    ],
+    "adultNote": "Build a miniature garden for imaginary visitors, not a shelter for a child or animal. Use loose fallen materials and leave living moss, bark, roots and habitats untouched. Keep the structure low; no digging into roots, nails, glue or cutting the tree. A grown-up checks all supports and handles any stone roof.",
+    "littleRole": "",
+    "youngRole": "Plan a supported lean-to, test its balance and add a path and spring garden.",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Choose a tree-side corner",
+        "text": "With a grown-up, find a permitted clear spot at the base of a tree. Use the trunk as the back of your tiny garden without digging or moving roots. Mark out a doorway and a path with loose twigs. A stable rock can be an alternative support.",
+        "littleTask": "",
+        "youngTask": "Plan where the shelter, doorway, path and flowers will sit.",
+        "adultTask": "Choose an existing clear patch, leaving living plants and small habitats alone.",
+        "diagram": "/assets/steps/SPR-09-1.svg"
+      },
+      {
+        "title": "Lean a little twig shelter",
+        "text": "Rest short twigs diagonally against the trunk so their feet spread out on the ground. Brace the feet with small stable stones and leave an opening at the front. Add a few more leaning twigs close together to support the roof. Test gently and lower any pieces that wobble.",
+        "littleTask": "",
+        "youngTask": "Keep each twig touching the tree and the ground, with a clear doorway.",
+        "adultTask": "Check that the low lean-to is steady. Do not push twigs into bark or roots.",
+        "diagram": "/assets/steps/SPR-09-2.svg"
+      },
+      {
+        "title": "Add a light roof",
+        "text": "Lay small pieces of loose fallen bark or broad leaves across the leaning twigs. Work from the bottom upwards so each layer overlaps the one below. Keep the doorway open and the roof light. Use a light twig to hold a slipping leaf instead of adding heavy pieces.",
+        "littleTask": "",
+        "youngTask": "Overlap the covering while keeping its twig supports in place.",
+        "adultTask": "Use only bark already on the ground. Never peel bark from a living tree.",
+        "diagram": "/assets/steps/SPR-09-3.svg"
+      },
+      {
+        "title": "Grow a tiny spring garden",
+        "text": "Arrange stones into a winding path leading to the doorway. Add loose greenery, approved flowers, a leaf rug or a tiny twig bench beside the shelter. Keep the entrance clear. Change the colours and shapes until the garden feels like your own.",
+        "littleTask": "",
+        "youngTask": "Make a path and one special detail for an imaginary visitor.",
+        "adultTask": "Use fallen greenery rather than lifting living moss. Approve any flowers before use.",
+        "diagram": "/assets/steps/SPR-09-4.svg"
+      },
+      {
+        "title": "Explore your fairy hideaway",
+        "text": "Imagine who might visit and give your garden a name. Try a small rock shelter beside it if you like: use a broad, stable base and ask a grown-up to place a small flat roof stone. Photograph your garden, then take the structure down after play.",
+        "littleTask": "",
+        "youngTask": "Tell a story about the garden and compare twig and stone supports.",
+        "adultTask": "Keep stone builds low and stable. Handle roof stones and help return the space to how it was.",
+        "diagram": "/assets/steps/SPR-09-5.svg"
+      }
+    ],
+    "keep": "Enjoy during the making session. Flowers wilt and loose roofs shift, so photograph your little world and take it down afterwards.",
+    "cleanup": "Gently dismantle the shelter and clear the path. Return loose pieces only where permitted, leave roots and habitats untouched, and wash hands.",
+    "extension": "Build a tiny stone resting place, change the garden path, or tell a story about a spring visitor. Your garden does not need to copy the examples.",
+    "examples": [
+      "A tree-side spring hideaway",
+      "A tiny stone shelter",
+      "A flower-filled twig garden"
+    ],
+    "waitLabel": "A tree or stable rock helps support a low shelter.",
+    "natureNote": "Choose loose, fallen materials where collecting is allowed. Ask a grown-up before gathering flowers, leave plenty for insects, and protect roots and tiny habitats.",
+    "season": "spring",
+    "showInstructions": true,
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed."
+  },
+  {
+    "id": "SUM-01",
+    "title": "A twig treasure pot",
+    "subtitle": "A woodland home for little discoveries.",
+    "description": "Wrap a small reused container in a tidy coat of short twigs. The container provides the structure; paper tape holds the decoration.",
+    "season": "summer",
+    "ages": [
+      "young"
+    ],
+    "together": false,
+    "minutes": 30,
+    "prepMinutes": 5,
+    "setting": "At a table",
+    "difficulty": "A little adventure",
+    "tags": [
+      "twigs",
+      "cardboard"
+    ],
+    "materials": [
+      {
+        "name": "Smooth dry twigs, 8–10 cm long",
+        "quantity": "12–16",
+        "kind": "nature"
+      },
+      {
+        "name": "Clean sturdy cardboard pot or small box, about 8 cm high",
+        "quantity": "1",
+        "kind": "home"
+      },
+      {
+        "name": "Wide paper tape",
+        "quantity": "4 × 25 cm strips",
+        "kind": "home"
+      },
+      {
+        "name": "Paper label and pencil",
+        "quantity": "1 set",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult prepares twig lengths and checks edges. Handle the finished pot by its base; it is decorative, not a food container.",
+    "littleRole": "",
+    "youngRole": "Sort twigs by length and wrap the base evenly.",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Choose the base",
+        "text": "Choose a clean cardboard container with an intact bottom. Stand it on the table. Select twigs that reach no higher than its rim so they cannot poke hands reaching inside.",
+        "littleTask": "",
+        "youngTask": "Compare each twig with the container height.",
+        "adultTask": "Prepare smooth twigs without asking children to cut them.",
+        "diagram": "/assets/steps/SUM-01-1.svg"
+      },
+      {
+        "title": "Lay out a twig coat",
+        "text": "Lay two tape strips sticky side up, parallel and about 5 cm apart. Put twigs across both strips, side by side, leaving a small gap between twigs.",
+        "littleTask": "",
+        "youngTask": "Create an even row across both tape strips.",
+        "adultTask": "Keep the tape strips steady if needed.",
+        "diagram": "/assets/steps/SUM-01-2.svg"
+      },
+      {
+        "title": "Wrap the container",
+        "text": "Lift the twig row by its taped sides and bend it around the outside of the container. Keep twig ends level with the bottom. Stop where the row meets itself; leave the opening clear.",
+        "littleTask": "",
+        "youngTask": "Guide the row around the base.",
+        "adultTask": "Help hold the container while wrapping.",
+        "diagram": "/assets/steps/SUM-01-3.svg"
+      },
+      {
+        "title": "Secure the outside",
+        "text": "Wrap one tape strip around the outside near the top and one near the bottom. Overlap tape ends by at least 3 cm. Press every twig gently; add a short tape patch if one moves.",
+        "littleTask": "",
+        "youngTask": "Press and check each twig.",
+        "adultTask": "Check all pieces are secure before use.",
+        "diagram": "/assets/steps/SUM-01-4.svg"
+      },
+      {
+        "title": "Name your collection",
+        "text": "Add a paper label and choose a few large, clean natural treasures. Lift the pot by its original base. Keep it indoors and take out any damp pieces.",
+        "littleTask": "",
+        "youngTask": "Name and arrange your collection.",
+        "adultTask": "Check collected treasures are appropriate to handle.",
+        "diagram": "/assets/steps/SUM-01-5.svg"
+      }
+    ],
+    "keep": "Store dry indoors and check the twig coat before moving it.",
+    "cleanup": "Peel off tape, reuse the container, and sort twigs and mixed materials separately.",
+    "extension": "Make matching paper labels for different collections.",
+    "examples": [
+      "Short twig cup",
+      "Small rectangular treasure box",
+      "Low round treasure pot"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "SUM-02",
+    "title": "A summer nature mandala",
+    "subtitle": "Small treasures. Beautiful patterns.",
+    "description": "Arrange loose leaves, petals and stones in repeating circles. This is a temporary picture you can change as you go.",
+    "season": "summer",
+    "ages": [
+      "little",
+      "young"
+    ],
+    "together": true,
+    "minutes": 20,
+    "prepMinutes": 5,
+    "setting": "On a tray or permitted flat ground",
+    "difficulty": "Easy does it",
+    "tags": [
+      "leaves",
+      "flowers",
+      "stones"
+    ],
+    "materials": [
+      {
+        "name": "Broad fallen leaves",
+        "quantity": "8",
+        "kind": "nature"
+      },
+      {
+        "name": "Suitable loose petals, collected with permission",
+        "quantity": "12",
+        "kind": "nature"
+      },
+      {
+        "name": "Smooth stones too large to swallow",
+        "quantity": "9",
+        "kind": "nature"
+      },
+      {
+        "name": "Reusable tray or mat, about 35 cm across",
+        "quantity": "1",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult checks plants and stones. Collect only permitted loose materials; take every added piece away when finished.",
+    "littleRole": "Make a ring of leaves around the centre.",
+    "youngRole": "Plan repeated spacing and an outer ring.",
+    "togetherPlan": "One maker starts the centre and inner ring; another adds an outer pattern. Take turns choosing the next repeated shape.",
+    "steps": [
+      {
+        "title": "Sort your summer finds",
+        "text": "Sort leaves, petals and stones into three groups beside the tray. Pair pieces that look similar. Keep the middle of the tray empty for the design.",
+        "littleTask": "Sort by colour or shape.",
+        "youngTask": "Count enough pieces for a repeating ring.",
+        "adultTask": "Check all plant pieces and stones.",
+        "diagram": "/assets/steps/SUM-02-1.svg"
+      },
+      {
+        "title": "Choose a centre",
+        "text": "Put one stone in the middle of the tray. Place four leaves around it like compass points, with tips facing outward. Leave small gaps between them.",
+        "littleTask": "Choose the centre stone.",
+        "youngTask": "Space the four leaves evenly.",
+        "diagram": "/assets/steps/SUM-02-2.svg"
+      },
+      {
+        "title": "Complete the inner ring",
+        "text": "Place the remaining four leaves in the spaces between the first leaves. Turn each tip outward. Move the leaves until the ring looks balanced.",
+        "littleTask": "Fill the gaps.",
+        "youngTask": "Compare opposite sides for spacing.",
+        "diagram": "/assets/steps/SUM-02-3.svg"
+      },
+      {
+        "title": "Repeat outward",
+        "text": "Arrange the eight remaining stones in a wider ring. Place petals in pairs or small groups in the gaps. Leave room between the rings so the shapes are easy to see.",
+        "littleTask": "Choose the petal groups.",
+        "youngTask": "Repeat the same spacing around the circle.",
+        "diagram": "/assets/steps/SUM-02-4.svg"
+      },
+      {
+        "title": "Look from above",
+        "text": "Step back or look straight down. Adjust one piece at a time, give the pattern a name and remember it with a photo or drawing. Then gather every piece.",
+        "littleTask": "Name the pattern.",
+        "youngTask": "Describe what repeats.",
+        "adultTask": "Supervise collection and cleanup.",
+        "diagram": "/assets/steps/SUM-02-5.svg"
+      }
+    ],
+    "keep": "Photograph or draw the temporary arrangement before dismantling it.",
+    "cleanup": "Reuse the tray and return or dispose of suitable natural pieces according to local rules.",
+    "extension": "Try a loose spiral using the same materials.",
+    "examples": [
+      "Stone-and-leaf circle",
+      "Petal sunburst",
+      "Mixed natural spiral"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "SUM-03",
+    "title": "Pebble picture friends",
+    "subtitle": "Let a few stones tell a story.",
+    "description": "Make a loose pebble dragonfly, bird or turtle on cardboard. Place and rearrange the stones without glue.",
+    "season": "summer",
+    "ages": [
+      "little"
+    ],
+    "together": false,
+    "minutes": 20,
+    "prepMinutes": 5,
+    "setting": "At a table or on a picnic blanket",
+    "difficulty": "Easy does it",
+    "tags": [
+      "stones",
+      "cardboard"
+    ],
+    "materials": [
+      {
+        "name": "Smooth stones too large to swallow, in varied shapes",
+        "quantity": "8–12",
+        "kind": "nature"
+      },
+      {
+        "name": "Cardboard rectangle, about 25 × 30 cm",
+        "quantity": "1",
+        "kind": "home"
+      },
+      {
+        "name": "Pencil or crayon",
+        "quantity": "1",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult chooses stones and keeps the picture on a low stable surface. Loose stones are not fixed to the card; do not lift it vertically.",
+    "littleRole": "Choose big stones for the body and arrange smaller details.",
+    "youngRole": "",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Sort your pebble shapes",
+        "text": "Set the cardboard on a flat surface. Sort stones into long, round and flat shapes. Pick a large body stone and two to four matching shapes for wings or legs.",
+        "littleTask": "Find matching shapes.",
+        "youngTask": "",
+        "adultTask": "Check every stone and the working surface.",
+        "diagram": "/assets/steps/SUM-03-1.svg"
+      },
+      {
+        "title": "Imagine the picture",
+        "text": "Choose a dragonfly, bird or turtle. Lightly draw its shape on the card, or point to where the body and head will go. Leave a clear border.",
+        "littleTask": "Choose your pebble friend.",
+        "youngTask": "",
+        "adultTask": "Draw a simple outline if helpful.",
+        "diagram": "/assets/steps/SUM-03-2.svg"
+      },
+      {
+        "title": "Place the big shapes",
+        "text": "Put the largest stones down first for the body and head. Leave space around them for wings, legs or a tail. Turn the stones until they sit flat.",
+        "littleTask": "Place the body and head.",
+        "youngTask": "",
+        "adultTask": "Help with heavy stones.",
+        "diagram": "/assets/steps/SUM-03-3.svg"
+      },
+      {
+        "title": "Add the little details",
+        "text": "Add broad wing stones or short leg stones beside the body. Draw tiny details such as eyes on the card near the stones instead of using small loose pieces.",
+        "littleTask": "Try different wing or leg positions.",
+        "youngTask": "",
+        "diagram": "/assets/steps/SUM-03-4.svg"
+      },
+      {
+        "title": "Tell its story",
+        "text": "Give the creature a name and describe where it lives. Keep the board flat while admiring it. Photograph the picture before returning the stones to their storage box.",
+        "littleTask": "Name your pebble friend.",
+        "youngTask": "",
+        "adultTask": "Help clear the stones individually.",
+        "diagram": "/assets/steps/SUM-03-5.svg"
+      }
+    ],
+    "keep": "Keep flat and out of reach of younger children and pets, or save a picture.",
+    "cleanup": "Remove stones one by one and reuse the card.",
+    "extension": "Arrange the same stones into a different creature.",
+    "examples": [
+      "Pebble dragonfly",
+      "Pebble bird",
+      "Pebble turtle"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "SUM-04",
+    "title": "Leaf-and-twig insects",
+    "subtitle": "A garden of wonderfully made-up bugs.",
+    "description": "Use a twig body and leaf wings to make a butterfly, dragonfly or imaginary insect on paper.",
+    "season": "summer",
+    "ages": [
+      "little"
+    ],
+    "together": false,
+    "minutes": 20,
+    "prepMinutes": 5,
+    "setting": "At a table",
+    "difficulty": "Easy does it",
+    "tags": [
+      "leaves",
+      "twigs",
+      "paper"
+    ],
+    "materials": [
+      {
+        "name": "Flat fallen leaves from suitable plants",
+        "quantity": "4",
+        "kind": "nature"
+      },
+      {
+        "name": "Smooth short twig, about 10 cm long",
+        "quantity": "1",
+        "kind": "nature"
+      },
+      {
+        "name": "Thick paper or card",
+        "quantity": "1 sheet",
+        "kind": "home"
+      },
+      {
+        "name": "Paper tape",
+        "quantity": "6 short pieces",
+        "kind": "home"
+      },
+      {
+        "name": "Crayons",
+        "quantity": "2",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult checks leaves and smooths or replaces sharp twig ends. Use paper tape and crayons rather than loose tiny eyes.",
+    "littleRole": "Arrange wings and draw a friendly face.",
+    "youngRole": "",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Choose the insect pieces",
+        "text": "Set the twig and four leaves beside the card. Choose two similar leaves for the top wings and two for the lower wings. A made-up insect can be any colour.",
+        "littleTask": "Match the leaf wings.",
+        "youngTask": "",
+        "adultTask": "Check the natural pieces.",
+        "diagram": "/assets/steps/SUM-04-1.svg"
+      },
+      {
+        "title": "Place the body",
+        "text": "Put the twig down the middle of the card. Use a short tape strip across each end to hold it to the card. Leave space on both sides for wings.",
+        "littleTask": "Choose where the body goes.",
+        "youngTask": "",
+        "adultTask": "Help tape the twig securely.",
+        "diagram": "/assets/steps/SUM-04-2.svg"
+      },
+      {
+        "title": "Spread the wings",
+        "text": "Place one pair of leaves on either side near the top of the twig. Put the second pair lower down. Try opening the wings wider before fixing them.",
+        "littleTask": "Arrange each pair of wings.",
+        "youngTask": "",
+        "diagram": "/assets/steps/SUM-04-3.svg"
+      },
+      {
+        "title": "Attach and draw",
+        "text": "Tape each leaf stem to the card. Draw two antennae and a face near the top of the twig. Add six drawn legs if you want your insect to have the usual insect leg count.",
+        "littleTask": "Draw a face and legs.",
+        "youngTask": "",
+        "adultTask": "Attach the leaves where needed.",
+        "diagram": "/assets/steps/SUM-04-4.svg"
+      },
+      {
+        "title": "Create its garden story",
+        "text": "Give the insect a name. Draw a flower or a leaf beside it and describe what it might do there. Lay the picture flat to keep the leaves in place.",
+        "littleTask": "Tell a garden story.",
+        "youngTask": "",
+        "adultTask": "Check for loose twig or leaf pieces.",
+        "diagram": "/assets/steps/SUM-04-5.svg"
+      }
+    ],
+    "keep": "Display flat indoors while leaves dry. They may curl or become brittle.",
+    "cleanup": "Separate natural pieces from tape and card before sorting waste.",
+    "extension": "Make a second insect with very different wing shapes.",
+    "examples": [
+      "Leaf butterfly",
+      "Leaf dragonfly",
+      "Imaginary garden insect"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "SUM-05",
+    "title": "A tiny twig sailboat",
+    "subtitle": "A small raft for a big adventure.",
+    "description": "Tie five or six short twigs into a miniature raft, add a leaf sail and test it in a shallow tray. Retrieve the boat and all materials after play.",
+    "season": "summer",
+    "ages": [
+      "little",
+      "young"
+    ],
+    "together": true,
+    "minutes": 35,
+    "prepMinutes": 10,
+    "setting": "At a table and shallow water tray",
+    "difficulty": "Adult help needed",
+    "tags": [
+      "twigs",
+      "leaves",
+      "water"
+    ],
+    "materials": [
+      {
+        "name": "Smooth dry twigs, about 12 cm long",
+        "quantity": "5–6",
+        "kind": "nature"
+      },
+      {
+        "name": "Thin smooth twig for mast, about 8 cm long",
+        "quantity": "1",
+        "kind": "nature"
+      },
+      {
+        "name": "Broad fallen leaf",
+        "quantity": "1",
+        "kind": "nature"
+      },
+      {
+        "name": "Cotton string, pre-cut",
+        "quantity": "2 × 35 cm and 1 × 15 cm",
+        "kind": "home"
+      },
+      {
+        "name": "Reusable tray with 2–3 cm of water",
+        "quantity": "1",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult handles tight knots, checks twig ends and stays beside the shallow water tray. No streams, ponds or open-water launching. The sail is decorative and may tip the raft.",
+    "littleRole": "Line up the raft and choose the sail while an adult ties it.",
+    "youngRole": "Help lash the twigs and test balance.",
+    "togetherPlan": "Younger makers arrange the raft and choose a leaf; older makers help with the joins. Test, adjust and retrieve the boat together.",
+    "steps": [
+      {
+        "title": "Line up the raft twigs",
+        "text": "Place five or six similar twigs side by side with their ends level. Leave a tiny gap between each. Set aside the shorter mast twig and leaf.",
+        "littleTask": "Arrange the twig row.",
+        "youngTask": "Compare lengths and choose a balanced set.",
+        "adultTask": "Prepare smooth twig lengths.",
+        "diagram": "/assets/steps/SUM-05-1.svg"
+      },
+      {
+        "title": "Lash the first end",
+        "text": "About 2 cm from one end, an adult ties a string around the first twig. Weave it over and under the next twigs, then back along the row. Pull snug and knot to the starting end.",
+        "littleTask": "Hold the row in place.",
+        "youngTask": "Follow the over-under path.",
+        "adultTask": "Tie the starting and finishing knots.",
+        "diagram": "/assets/steps/SUM-05-2.svg"
+      },
+      {
+        "title": "Secure the other end",
+        "text": "Repeat with the second long string about 2 cm from the opposite end. Check that all the twigs stay together when the raft is gently lifted. Trim trailing string only by an adult.",
+        "littleTask": "Gently test for loose twigs.",
+        "youngTask": "Help tighten the second lashing.",
+        "adultTask": "Tie and trim the string ends.",
+        "diagram": "/assets/steps/SUM-05-3.svg"
+      },
+      {
+        "title": "Add a small sail",
+        "text": "Push the mast into the middle gap in the raft. Use the short string to tie it to a middle twig at the base. Fold the leaf stem around the mast and tuck it into the same tie. Keep the sail low.",
+        "littleTask": "Choose the leaf sail.",
+        "youngTask": "Help set the mast upright.",
+        "adultTask": "Secure the mast; leave the sail off if it will not balance.",
+        "diagram": "/assets/steps/SUM-05-4.svg"
+      },
+      {
+        "title": "Float, adjust, retrieve",
+        "text": "Set the raft gently in the tray with 2–3 cm of water. If it tips, remove the sail and try the plain raft. Lift it out afterward, empty the tray and collect every string and twig.",
+        "littleTask": "Watch what floats.",
+        "youngTask": "Compare the raft with and without its sail.",
+        "adultTask": "Stay beside the tray and empty it after use.",
+        "diagram": "/assets/steps/SUM-05-5.svg"
+      }
+    ],
+    "keep": "Dry the pieces separately before storing; wet string and leaves should not stay bundled.",
+    "cleanup": "Untie and reuse string, dry the tray and sort natural pieces.",
+    "extension": "Compare two leaf sizes on the same raft without adding more materials.",
+    "examples": [
+      "Plain twig raft",
+      "Small leaf sailboat",
+      "Raft with a lower leaf sail"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "SUM-06",
+    "title": "A summer nature mandala",
+    "subtitle": "Little treasures, growing circles, and your own summer pattern.",
+    "description": "Arrange leaves, stones, twigs and colourful flowers into a circular summer pattern. Start with one special piece in the middle and add a new ring around it. Make a tiny design or a bigger shared mandala, using what you find.",
+    "ages": [
+      "little",
+      "young"
+    ],
+    "together": true,
+    "minutes": 30,
+    "prepMinutes": 5,
+    "setting": "Outside on flat ground or a reusable tray",
+    "difficulty": "Make it simple or detailed",
+    "tags": [
+      "mandala",
+      "patterns",
+      "leaves",
+      "stones",
+      "twigs",
+      "flowers",
+      "summer"
+    ],
+    "materials": [
+      {
+        "name": "Loose leaves in different shapes",
+        "quantity": "A few handfuls",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Smooth stones too large to swallow",
+        "quantity": "6–15",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Short blunt fallen twigs",
+        "quantity": "6–12",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Loose petals or flowers approved by a grown-up",
+        "quantity": "A small handful",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Flat ground or a reusable tray",
+        "quantity": "1 clear space",
+        "kind": "home",
+        "optional": false
+      }
+    ],
+    "adultNote": "Check collected pieces and choose sizes suitable for the children. Use loose materials where gathering is allowed. A grown-up identifies any flowers; leave plenty for insects. No glue or scissors are needed.",
+    "littleRole": "Choose the centre and repeat a simple ring of leaves or stones.",
+    "youngRole": "Build new repeating patterns, alternate colours and balance the outer rings.",
+    "togetherPlan": "A Little Maker chooses the centre and first ring. A Young Creator adds another pattern around it. Take turns choosing the next colour or shape.",
+    "steps": [
+      {
+        "title": "Gather and sort your treasures",
+        "text": "With a grown-up, collect loose leaves, smooth stones and any approved twigs, flowers or petals. Sort them into little piles by colour, shape or size. Choose a flat place with enough space for your circles to grow.",
+        "littleTask": "Sort leaves and stones into piles.",
+        "youngTask": "Look for several pieces that can repeat in a pattern.",
+        "adultTask": "Check the materials and approve the making space.",
+        "diagram": "/assets/steps/SUM-06-1.svg"
+      },
+      {
+        "title": "Choose a special centre",
+        "text": "Put one favourite stone, leaf or flower in the middle of your space. Leave room around it for several rings. Turn it until it looks right to you; your mandala can be big, small or a little wonky.",
+        "littleTask": "Place your favourite piece in the middle.",
+        "youngTask": "Plan the size and direction of the first ring.",
+        "adultTask": "",
+        "diagram": "/assets/steps/SUM-06-2.svg"
+      },
+      {
+        "title": "Make a repeating first ring",
+        "text": "Place a circle of leaves or stones around your centre. Repeat one kind of piece, or alternate two colours or shapes. Keep going until the ring meets itself. Leave little gaps so each piece is easy to see.",
+        "littleTask": "Repeat a leaf or a stone all the way around.",
+        "youngTask": "Try an alternating broad-leaf, narrow-leaf pattern.",
+        "adultTask": "",
+        "diagram": "/assets/steps/SUM-06-3.svg"
+      },
+      {
+        "title": "Grow another summer pattern",
+        "text": "Add a new ring outside the first. Try stones between leaves, twigs like sun rays, or approved petals for splashes of colour. Change the repeating rule with each ring and use the materials you have. Stop whenever the design feels complete.",
+        "littleTask": "Add a piece in each outside gap.",
+        "youngTask": "Build an outer ring with a different colour or repeating rule.",
+        "adultTask": "",
+        "diagram": "/assets/steps/SUM-06-4.svg"
+      },
+      {
+        "title": "Make the pattern your own",
+        "text": "Step back and look at your summer mandala. Move any pieces you like, add a border, or leave it beautifully simple. Show someone your repeating pattern and take a picture before the breeze changes it.",
+        "littleTask": "Point out your favourite colour or shape.",
+        "youngTask": "Explain the repeating rule in each ring.",
+        "adultTask": "Help photograph the design and restore the space afterwards.",
+        "diagram": "/assets/steps/SUM-06-5.svg"
+      }
+    ],
+    "keep": "This is temporary outdoor art. A photograph keeps the pattern after wind, footsteps or weather changes it.",
+    "cleanup": "Clear paths and play spaces. Return loose natural pieces only where permitted, take home anything you brought, and leave living plants and habitats undisturbed.",
+    "extension": "Make a tiny mandala beside a large one, try only two colours, or let a friend choose the rule for the next ring.",
+    "examples": [
+      "A leafy summer circle",
+      "A flower-and-stone pattern",
+      "A bright petal mandala"
+    ],
+    "waitLabel": "",
+    "season": "summer",
+    "showInstructions": true,
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "natureNote": "Use loose materials only where collecting is allowed. Ask a grown-up about flowers and empty shells, leave living plants and animals alone, and take your supplies home."
+  },
+  {
+    "id": "SUM-07",
+    "title": "Rocky friends",
+    "subtitle": "A few stones can become a whole new friend.",
+    "description": "Turn smooth stones into a turtle, frog, dragonfly or an animal only you could imagine. Lay the pieces flat and move them around until your rocky friend appears. Start with a simple shape, then add as many details as you like.",
+    "ages": [
+      "little",
+      "young"
+    ],
+    "together": true,
+    "minutes": 25,
+    "prepMinutes": 5,
+    "setting": "Outside or on a flat tray",
+    "difficulty": "Make it simple or detailed",
+    "tags": [
+      "rocks",
+      "stones",
+      "pebbles",
+      "animals",
+      "friends",
+      "summer"
+    ],
+    "materials": [
+      {
+        "name": "Smooth flat stones in several shapes, all suitable for the children",
+        "quantity": "6–15",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Flat ground or a reusable tray",
+        "quantity": "1 space",
+        "kind": "home",
+        "optional": false
+      },
+      {
+        "name": "Short blunt fallen twigs for whiskers, legs or antennae",
+        "quantity": "2–6",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Crayon for optional eyes on stones you own",
+        "quantity": "1",
+        "kind": "home",
+        "optional": true
+      }
+    ],
+    "adultNote": "Choose stones children can handle easily and sizes too large to swallow. Keep the artwork flat; no heavy stones or tall stacks are needed. Do not lift habitat stones or take stones where collecting is restricted. Draw only on stones you own and take marked stones home.",
+    "littleRole": "Choose a big body stone, then add a head and feet.",
+    "youngRole": "Build wings, a long tail or a detailed creature using different stone shapes.",
+    "togetherPlan": "A Little Maker chooses and places the body. A Young Creator helps arrange the legs, wings or tail. Decide together what your friend is called.",
+    "steps": [
+      {
+        "title": "Find interesting stone shapes",
+        "text": "Set out smooth stones checked by a grown-up. Look for broad, narrow, round and oval shapes. Arrange them on a flat tray or clear ground and imagine what each one could become. You can use just a few pieces.",
+        "littleTask": "Choose a big body stone and a smaller head.",
+        "youngTask": "Sort stones that could become wings, feet or a tail.",
+        "adultTask": "Choose manageable stones and a place where using them is allowed.",
+        "diagram": "/assets/steps/SUM-07-1.svg"
+      },
+      {
+        "title": "Lay out a body and a head",
+        "text": "Put your largest flat stone down for the body and a smaller one beside it for the head. Turn the pieces to try different shapes. Keep both on the ground or tray, rather than balancing the head on top.",
+        "littleTask": "Place the body and head next to each other.",
+        "youngTask": "Try a turtle shell, a round frog or a long insect body.",
+        "adultTask": "",
+        "diagram": "/assets/steps/SUM-07-2.svg"
+      },
+      {
+        "title": "Give your friend feet or wings",
+        "text": "Arrange smaller flat stones around the body. Four oval stones can make turtle feet; long stones can become dragonfly wings or frog legs. Add a tail if you want. Move the pieces until your creature looks ready for an adventure.",
+        "littleTask": "Add feet on each side of the body.",
+        "youngTask": "Use matching shapes for wings or a curved row for a tail.",
+        "adultTask": "",
+        "diagram": "/assets/steps/SUM-07-3.svg"
+      },
+      {
+        "title": "Add a little personality",
+        "text": "Choose suitable stones for features or add crayon eyes to a stone you own. Lay short twigs flat for whiskers or antennae. Your creature can also have an imaginary face. Leave the pieces loose so you can change its expression or pose.",
+        "littleTask": "Choose where the eyes should go.",
+        "youngTask": "Add a face, antennae or another special detail.",
+        "adultTask": "Use only suitable large features. Keep marked stones with your own craft supplies.",
+        "diagram": "/assets/steps/SUM-07-4.svg"
+      },
+      {
+        "title": "Meet your rocky friend",
+        "text": "Give your friend a name and make up a story. Can the same stones become a different animal? Try a turtle, frog or dragonfly, then photograph your favourite arrangement before you move the pieces.",
+        "littleTask": "Name your friend and show its feet or wings.",
+        "youngTask": "Rearrange the stones into a second creature.",
+        "adultTask": "Help photograph the flat artwork and put the stones away safely.",
+        "diagram": "/assets/steps/SUM-07-5.svg"
+      }
+    ],
+    "keep": "Loose stone art stays flat. Photograph it or keep the stones in a tray to make a new friend another day.",
+    "cleanup": "Take marked stones and your own supplies home. Return unmarked loose stones only where permitted and leave paths clear.",
+    "extension": "Make a family of different-sized friends or turn the same collection into a completely new animal.",
+    "examples": [
+      "A flat stone turtle",
+      "A pebble frog friend",
+      "A stone dragonfly"
+    ],
+    "waitLabel": "Keep the stones flat. No glue or stacking needed.",
+    "season": "summer",
+    "showInstructions": true,
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "natureNote": "Use loose materials only where collecting is allowed. Ask a grown-up about flowers and empty shells, leave living plants and animals alone, and take your supplies home."
+  },
+  {
+    "id": "SUM-08",
+    "title": "Our wilderness creatures",
+    "subtitle": "Mossy hair, leafy wings, and a friend nobody has met before.",
+    "description": "Combine bark, loose moss, twigs, leaves and stones into a woodland creature of your own. Make a simple mossy friend or a more detailed animal, insect or fairy. This older-maker activity invites patient arranging, experimenting and lots of imagination.",
+    "ages": [
+      "young"
+    ],
+    "together": false,
+    "minutes": 40,
+    "prepMinutes": 10,
+    "setting": "Outside or at a table",
+    "difficulty": "A bigger challenge",
+    "tags": [
+      "creatures",
+      "moss",
+      "bark",
+      "twigs",
+      "leaves",
+      "stones",
+      "summer"
+    ],
+    "materials": [
+      {
+        "name": "Loose fallen bark, broad leaves or flat stones for a body and head",
+        "quantity": "2–4 pieces; choose what you have",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Short blunt fallen twigs",
+        "quantity": "4–8",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Loose leaves for wings, clothes or ears",
+        "quantity": "4–10",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Already-detached loose moss or fallen dry grass for hair",
+        "quantity": "A little",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Smooth stones too large to swallow for features",
+        "quantity": "2–4",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Flat ground, a reusable tray or a sheet of reused card",
+        "quantity": "1 work space",
+        "kind": "home",
+        "optional": false
+      },
+      {
+        "name": "Crayon for optional details on your own card",
+        "quantity": "1",
+        "kind": "home",
+        "optional": true
+      }
+    ],
+    "adultNote": "Gather only loose materials with permission. Never peel living moss or bark from trees, logs or rocks, and do not disturb habitats. Loose grass or leaves can replace moss. Check twigs and stones before use. Keep the creature flat or very low; glue and sharp tools are not required.",
+    "littleRole": "",
+    "youngRole": "Plan the creature, tuck and overlap its pieces, then add details that give it a personality.",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Imagine a wilderness friend",
+        "text": "Look at your approved collection of bark, leaves, twigs, stones and loose moss or grass. Choose a simple mossy character or plan a creature with wings, legs or leafy clothes. Sort the pieces by the jobs they could do.",
+        "littleTask": "",
+        "youngTask": "Choose the body, head and one special feature before building.",
+        "adultTask": "Use only moss that is already detached and permitted to collect; otherwise choose loose grass or leaves.",
+        "diagram": "/assets/steps/SUM-08-1.svg"
+      },
+      {
+        "title": "Start with the biggest shapes",
+        "text": "Lay a broad piece of fallen bark, a leaf or a flat stone down for the body. It can be the face too, or you can add a smaller head beside it. Turn the pieces until you find a shape you like. Keep the design flat so it does not need to balance.",
+        "littleTask": "",
+        "youngTask": "Try the body and head in a few positions before adding details.",
+        "adultTask": "",
+        "diagram": "/assets/steps/SUM-08-2.svg"
+      },
+      {
+        "title": "Add limbs, wings or a tail",
+        "text": "Lay short twigs for arms and legs. Slide their ends under the body to help keep them in place. Overlap leaves for ears, wings or a tail. A pair of broad leaves can make butterfly wings, while thin twigs can make a bird’s legs.",
+        "littleTask": "",
+        "youngTask": "Tuck the ends under larger pieces and adjust the outline of your creature.",
+        "adultTask": "",
+        "diagram": "/assets/steps/SUM-08-3.svg"
+      },
+      {
+        "title": "Give your creature a personality",
+        "text": "Arrange a little already-loose moss or grass for hair, layer leaf clothes, and add suitable stone features. You can draw a face on your own card instead. Keep everything loose and try different expressions. A simple friend is just as good as a detailed one.",
+        "littleTask": "",
+        "youngTask": "Use texture, colour and shape to invent one detail nobody else has.",
+        "adultTask": "Do not pull moss from living surfaces. Keep any marked card with your own supplies.",
+        "diagram": "/assets/steps/SUM-08-4.svg"
+      },
+      {
+        "title": "Introduce your new friend",
+        "text": "Give your creature a name, a home and an imaginary favourite food. Make a mossy bark friend, a leafy insect or a stone-and-leaf bird, then try your own idea. Photograph the finished arrangement while it is still flat.",
+        "littleTask": "",
+        "youngTask": "Tell a short story about your creature and explain one clever material choice.",
+        "adultTask": "Help photograph the work, take home card and tidy the space.",
+        "diagram": "/assets/steps/SUM-08-5.svg"
+      }
+    ],
+    "keep": "This is loose, temporary art. Leave it flat on a tray for the making session and photograph it before putting the pieces away.",
+    "cleanup": "Take all card and other supplies home. Return loose natural materials only where permitted without disturbing plants or habitats. Wash hands after making.",
+    "extension": "Make two creatures from the same pieces, or give a mossy friend a leaf-winged companion and invent a shared adventure.",
+    "examples": [
+      "A mossy bark friend",
+      "A leaf-winged butterfly",
+      "A stone-and-leaf bird"
+    ],
+    "waitLabel": "Moss is optional. Use loose grass or leaves instead.",
+    "season": "summer",
+    "showInstructions": true,
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "natureNote": "Use loose materials only where collecting is allowed. Ask a grown-up about flowers and empty shells, leave living plants and animals alone, and take your supplies home."
+  },
+  {
+    "id": "SUM-09",
+    "title": "Sandy Explorer",
+    "subtitle": "Little paths, shell borders, and a splash of discovery.",
+    "description": "Make a small sand maze with winding paths, low walls, shells and pebbles. Add a flower, build a rock-lined route, or trickle a little water into a shallow channel. Keep it playful and a little wonky—this is a maze made by you.",
+    "ages": [
+      "little",
+      "young"
+    ],
+    "together": true,
+    "minutes": 35,
+    "prepMinutes": 5,
+    "setting": "A shallow sand tray or a permitted sandy patch",
+    "difficulty": "Make it simple or detailed",
+    "tags": [
+      "sand",
+      "maze",
+      "shells",
+      "pebbles",
+      "water",
+      "patterns",
+      "summer"
+    ],
+    "materials": [
+      {
+        "name": "Clean, slightly damp sand approved by a grown-up",
+        "quantity": "Enough for a shallow tray or small patch",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Smooth pebbles, all too large to swallow",
+        "quantity": "8–20",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Empty shells with smooth, unbroken edges",
+        "quantity": "A few",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "A flower or loose petals approved by a grown-up",
+        "quantity": "1–3",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Blunt stick or small reusable scoop",
+        "quantity": "1",
+        "kind": "home",
+        "optional": false
+      },
+      {
+        "name": "Small cup of water for optional channels",
+        "quantity": "1 small cup",
+        "kind": "home",
+        "optional": true
+      },
+      {
+        "name": "Shallow reusable tray if making at home",
+        "quantity": "1",
+        "kind": "home",
+        "optional": true
+      }
+    ],
+    "adultNote": "Choose clean sand in a shallow tray or a permitted place away from waves and moving water. Check shells are empty, unbroken and allowed to collect. Use small manageable stones and keep walls and channels low. A grown-up stays beside the makers when water is used. Fill channels and level the sand after play.",
+    "littleRole": "Make a simple winding path and decorate its edges with shells or pebbles.",
+    "youngRole": "Design branching paths, test a clear route and compare dry and watered channels.",
+    "togetherPlan": "A Little Maker draws the main path and chooses the border. A Young Creator adds turns or short dead ends. Trace the route together before trying a little water.",
+    "steps": [
+      {
+        "title": "Choose your sandy patch",
+        "text": "Ask a grown-up to approve a shallow sand tray or small sandy place away from the water’s edge. Pat slightly damp sand into a flat base. Set smooth pebbles, empty shells and any approved flowers beside your work space.",
+        "littleTask": "Pat the sand into a flat base.",
+        "youngTask": "Choose a space with room for a start and a centre.",
+        "adultTask": "Check the sand, shells and stones, and choose a place away from waves or moving water.",
+        "diagram": "/assets/steps/SUM-09-1.svg"
+      },
+      {
+        "title": "Draw a winding path",
+        "text": "Use a finger or blunt stick to draw an open path from one edge to a special place in the middle. Try a loose spiral or a route with several turns. Older makers can add short dead ends. Trace your main route to check that the entrance really reaches the finish.",
+        "littleTask": "Draw one curving path from the edge to the middle.",
+        "youngTask": "Add branches while keeping at least one clear route to the finish.",
+        "adultTask": "",
+        "diagram": "/assets/steps/SUM-09-2.svg"
+      },
+      {
+        "title": "Build low sand walls",
+        "text": "Push a little damp sand to either side of your line to make low walls and a shallow channel between them. Leave the entrance and turns open. If a wall crumbles, add a little damp sand and pat gently. Uneven walls are part of the fun.",
+        "littleTask": "Pat a low wall beside the path.",
+        "youngTask": "Check the route again and fix any blocked turns.",
+        "adultTask": "Keep all digging shallow and within the approved making area.",
+        "diagram": "/assets/steps/SUM-09-3.svg"
+      },
+      {
+        "title": "Decorate the edges",
+        "text": "Line parts of the walls with smooth pebbles or empty shells. Add an approved flower or a few petals near the finish. Try a shell-pebble-shell pattern, or make a mostly rock-lined route. Keep decorations beside the path so a finger can still follow it.",
+        "littleTask": "Choose a shell or pebble border.",
+        "youngTask": "Repeat a border pattern and keep every turn clear.",
+        "adultTask": "Keep shells and stones low and remove sharp or broken pieces.",
+        "diagram": "/assets/steps/SUM-09-4.svg"
+      },
+      {
+        "title": "Explore with a little water",
+        "text": "Follow the route from start to finish with your finger or blunt stick. If you want, slowly pour a little water into one shallow channel and watch where it goes. Sand may soak it up quickly; that is part of exploring. Compare it with a dry path and photograph your maze.",
+        "littleTask": "Trace the path and watch a small trickle of water.",
+        "youngTask": "Notice where water travels or soaks in, and adjust the route.",
+        "adultTask": "Help pour a small amount. When finished, remove decorations, fill channels and level the sand.",
+        "diagram": "/assets/steps/SUM-09-5.svg"
+      }
+    ],
+    "keep": "Enjoy the maze during play. Drying, water and footsteps will change it; take a picture before levelling the sand.",
+    "cleanup": "Remove shells, stones, flowers and supplies. Fill every channel, flatten the walls, leave the area clear, and wash hands before eating.",
+    "extension": "Make a spiral, a branching maze and a rock-lined path. Compare which turns are easiest to follow, or try decorating the same route in a new pattern.",
+    "examples": [
+      "A shell-and-pebble spiral",
+      "A maze with a little water",
+      "A winding rock-lined route"
+    ],
+    "waitLabel": "Water may soak into sand quickly. Keep channels shallow.",
+    "season": "summer",
+    "showInstructions": true,
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "natureNote": "Use loose materials only where collecting is allowed. Ask a grown-up about flowers and empty shells, leave living plants and animals alone, and take your supplies home."
+  },
+  {
+    "id": "FAL-01",
+    "title": "A little autumn leaf loom",
+    "subtitle": "Weave the colours of a falling leaf.",
+    "description": "Tie a small twig frame, stretch five strands across it and weave flexible leaves through the spaces.",
+    "season": "fall",
+    "ages": [
+      "young"
+    ],
+    "together": false,
+    "minutes": 35,
+    "prepMinutes": 10,
+    "setting": "At a table",
+    "difficulty": "Adult help needed",
+    "tags": [
+      "twigs",
+      "leaves",
+      "string"
+    ],
+    "materials": [
+      {
+        "name": "Smooth twigs, 18–20 cm long",
+        "quantity": "4",
+        "kind": "nature"
+      },
+      {
+        "name": "Long flexible fallen leaves from suitable plants",
+        "quantity": "8",
+        "kind": "nature"
+      },
+      {
+        "name": "Cotton string, pre-cut for corners",
+        "quantity": "4 × 20 cm",
+        "kind": "home"
+      },
+      {
+        "name": "Cotton string, pre-cut for vertical strands",
+        "quantity": "5 × 30 cm",
+        "kind": "home"
+      },
+      {
+        "name": "Reusable tray",
+        "quantity": "1",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult checks twigs, helps tie corners and trims loose string. Keep the frame flat while weaving and do not hang string outdoors.",
+    "littleRole": "",
+    "youngRole": "Build the frame with help and alternate over-under rows.",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Lay out a square",
+        "text": "Place four twigs in a square on the tray, overlapping each corner by about 2 cm. Choose leaves that bend gently without snapping.",
+        "littleTask": "",
+        "youngTask": "Arrange a square with a clear centre.",
+        "adultTask": "Check the twigs and leaves.",
+        "diagram": "/assets/steps/FAL-01-1.svg"
+      },
+      {
+        "title": "Tie the corners",
+        "text": "At each crossing, wrap a short string three times around both twigs. Cross the ends on the back and tie a firm double knot. Repeat at all four corners while the frame stays flat.",
+        "littleTask": "",
+        "youngTask": "Help hold and wrap each crossing.",
+        "adultTask": "Finish and check each corner knot.",
+        "diagram": "/assets/steps/FAL-01-2.svg"
+      },
+      {
+        "title": "Add five weaving strands",
+        "text": "Tie five strings from the top twig to the bottom twig, spaced about 2 cm apart. Keep them snug but not so tight that the frame bends. An adult trims long tails.",
+        "littleTask": "",
+        "youngTask": "Space the five strands evenly.",
+        "adultTask": "Tie or check knots and trim loose ends.",
+        "diagram": "/assets/steps/FAL-01-3.svg"
+      },
+      {
+        "title": "Weave a leaf row",
+        "text": "Slide a leaf across the frame over the first string, under the second, and continue alternating. Start the next leaf under the first string, then over the second. Use gentle pressure; replace brittle leaves.",
+        "littleTask": "",
+        "youngTask": "Reverse the pattern on each row.",
+        "adultTask": "Help guide a leaf if it catches.",
+        "diagram": "/assets/steps/FAL-01-4.svg"
+      },
+      {
+        "title": "Fill and admire",
+        "text": "Add leaves until the centre has a loose striped pattern. Stop before it becomes crowded. Keep the frame flat, give the artwork a title and gather all spare string.",
+        "littleTask": "",
+        "youngTask": "Describe how the rows alternate.",
+        "adultTask": "Check loose strings and move the frame carefully.",
+        "diagram": "/assets/steps/FAL-01-5.svg"
+      }
+    ],
+    "keep": "Lay flat indoors to dry; leaves may fade or curl.",
+    "cleanup": "Remove and reuse the string. Sort twigs and leaves separately from other materials.",
+    "extension": "Try alternating light and dark leaves.",
+    "examples": [
+      "Broad leaf stripes",
+      "Alternating autumn colours",
+      "Loose leaf-and-grass pattern"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "FAL-02",
+    "title": "Fallen-leaf animal pictures",
+    "subtitle": "Who is hiding in that leaf shape?",
+    "description": "Arrange fallen leaves into a fox, owl or bird, then tape them to a sheet of card. Draw small features with a crayon.",
+    "season": "fall",
+    "ages": [
+      "little"
+    ],
+    "together": false,
+    "minutes": 20,
+    "prepMinutes": 5,
+    "setting": "At a table",
+    "difficulty": "Easy does it",
+    "tags": [
+      "leaves",
+      "paper"
+    ],
+    "materials": [
+      {
+        "name": "Flat fallen leaves from suitable plants, varied shapes",
+        "quantity": "6–8",
+        "kind": "nature"
+      },
+      {
+        "name": "Card or thick paper",
+        "quantity": "1 sheet",
+        "kind": "home"
+      },
+      {
+        "name": "Paper tape",
+        "quantity": "8 short pieces",
+        "kind": "home"
+      },
+      {
+        "name": "Crayons",
+        "quantity": "2",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult checks plants and helps tape delicate pieces. Avoid berries, seeds or tiny loose eyes.",
+    "littleRole": "Choose a leaf body, add wings or ears and draw a face.",
+    "youngRole": "",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Look for animal shapes",
+        "text": "Spread the leaves beside the card. Find a broad body leaf, a smaller head leaf and two shapes for ears, wings or a tail. Turn leaves around to see new possibilities.",
+        "littleTask": "Choose an animal idea.",
+        "youngTask": "",
+        "adultTask": "Check all collected leaves.",
+        "diagram": "/assets/steps/FAL-02-1.svg"
+      },
+      {
+        "title": "Start with the body",
+        "text": "Place the largest leaf in the middle of the card. Add the head leaf above or beside it, leaving a little room for ears or wings. Do not tape yet.",
+        "littleTask": "Place the body and head.",
+        "youngTask": "",
+        "diagram": "/assets/steps/FAL-02-2.svg"
+      },
+      {
+        "title": "Add ears, wings or a tail",
+        "text": "Try the smaller leaves around the body. Two pointed leaves can be ears; two rounded leaves can be wings. Move the pieces until the animal is easy to recognise.",
+        "littleTask": "Try different poses.",
+        "youngTask": "",
+        "diagram": "/assets/steps/FAL-02-3.svg"
+      },
+      {
+        "title": "Fix the leaves in place",
+        "text": "Lift one leaf at a time. Make a small loop of tape, sticky side out, and press it onto the back of the leaf. Put the leaf back and press gently. Tape stems flat if needed.",
+        "littleTask": "Press each leaf gently.",
+        "youngTask": "",
+        "adultTask": "Make tape loops and help attach fragile leaves.",
+        "diagram": "/assets/steps/FAL-02-4.svg"
+      },
+      {
+        "title": "Draw the finishing details",
+        "text": "Draw eyes, a nose and feet on the card beside the leaf shapes. Add a name or a little habitat picture. Keep the artwork flat while the leaves dry.",
+        "littleTask": "Give the animal an expression.",
+        "youngTask": "",
+        "adultTask": "Check there are no loose pieces.",
+        "diagram": "/assets/steps/FAL-02-5.svg"
+      }
+    ],
+    "keep": "Display flat indoors and expect leaves to change shape as they dry.",
+    "cleanup": "Remove leaves and tape before sorting materials.",
+    "extension": "Use the same leaf shapes to invent a different animal.",
+    "examples": [
+      "Leaf fox",
+      "Leaf owl",
+      "Leaf bird"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "FAL-03",
+    "title": "Pinecone woodland friends",
+    "subtitle": "A whole woodland in one pinecone.",
+    "description": "Give a dry pinecone a stable clay base and large paper features to make an owl, hedgehog or imaginary friend.",
+    "season": "fall",
+    "ages": [
+      "little",
+      "young"
+    ],
+    "together": true,
+    "minutes": 25,
+    "prepMinutes": 5,
+    "setting": "At a table",
+    "difficulty": "Easy does it",
+    "tags": [
+      "pinecones",
+      "paper",
+      "clay"
+    ],
+    "materials": [
+      {
+        "name": "Dry pinecone, clean and checked by an adult",
+        "quantity": "1",
+        "kind": "nature"
+      },
+      {
+        "name": "Reusable modelling clay",
+        "quantity": "1 golf-ball-sized piece",
+        "kind": "home"
+      },
+      {
+        "name": "Paper shapes for wings, ears or face",
+        "quantity": "4–6 large pieces",
+        "kind": "home"
+      },
+      {
+        "name": "Paper tape",
+        "quantity": "6 short pieces",
+        "kind": "home"
+      },
+      {
+        "name": "Crayon and card base",
+        "quantity": "1 each",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult checks cone scales and prepares paper shapes. Use paper features rather than small detachable eyes, and keep the sculpture on a stable base.",
+    "littleRole": "Choose large paper features and press the cone into an adult-prepared base.",
+    "youngRole": "Plan the animal and attach folded paper features.",
+    "togetherPlan": "One maker chooses the face and colours; another builds the base and attaches features. Name the woodland friend together.",
+    "steps": [
+      {
+        "title": "Make a stable base",
+        "text": "Flatten the clay into a disc about 6 cm wide on the card. Press the wide end of the pinecone into it. If making a hedgehog, lay the cone sideways and press it gently into the clay.",
+        "littleTask": "Press the clay flat.",
+        "youngTask": "Choose a standing or lying pose.",
+        "adultTask": "Check the cone and help it sit steadily.",
+        "diagram": "/assets/steps/FAL-03-1.svg"
+      },
+      {
+        "title": "Choose the features",
+        "text": "Arrange large paper wings, ears or a face beside the cone. Draw eyes directly on the paper face with a crayon. Try the shapes against the cone before attaching.",
+        "littleTask": "Choose colours and a face.",
+        "youngTask": "Plan which features fit the cone.",
+        "adultTask": "Prepare paper shapes for younger makers.",
+        "diagram": "/assets/steps/FAL-03-2.svg"
+      },
+      {
+        "title": "Fold attachment tabs",
+        "text": "Fold about 1 cm at the base of each paper feature to make a small tab. Put a loop of paper tape on the tab. Keep the decorative part clear of the tape.",
+        "littleTask": "Point to where each piece goes.",
+        "youngTask": "Fold tabs and make tape loops.",
+        "adultTask": "Make tape loops for younger makers.",
+        "diagram": "/assets/steps/FAL-03-3.svg"
+      },
+      {
+        "title": "Give your friend a face",
+        "text": "Press the taped tabs onto broad cone scales, one piece at a time. Hold gently for a moment. Add a larger tape loop if a piece falls off; avoid forcing paper between sharp scales.",
+        "littleTask": "Place the face with help.",
+        "youngTask": "Attach wings or ears symmetrically.",
+        "adultTask": "Help secure pieces and check the base.",
+        "diagram": "/assets/steps/FAL-03-4.svg"
+      },
+      {
+        "title": "Make a woodland introduction",
+        "text": "Let the friend sit on the card base. Give it a name and tell what it likes to do. Move it by lifting the card, not by pulling on the cone or paper features.",
+        "littleTask": "Name the woodland friend.",
+        "youngTask": "Tell its story.",
+        "adultTask": "Carry the finished creation if needed.",
+        "diagram": "/assets/steps/FAL-03-5.svg"
+      }
+    ],
+    "keep": "Keep dry indoors, away from younger children and pets.",
+    "cleanup": "Remove paper and tape, reuse the clay and card, and sort the cone appropriately.",
+    "extension": "Add a second friend with a different pose.",
+    "examples": [
+      "Pinecone owl",
+      "Pinecone hedgehog",
+      "Imaginary woodland creature"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "FAL-04",
+    "title": "An autumn leaf garland",
+    "subtitle": "String together the colours of fall.",
+    "description": "Clip dry leaves onto a short string in a repeating pattern. An adult displays the garland indoors, beyond children’s reach.",
+    "season": "fall",
+    "ages": [
+      "young"
+    ],
+    "together": false,
+    "minutes": 25,
+    "prepMinutes": 5,
+    "setting": "At a table; display indoors",
+    "difficulty": "A little adventure",
+    "tags": [
+      "leaves",
+      "string"
+    ],
+    "materials": [
+      {
+        "name": "Dry fallen leaves with intact stems",
+        "quantity": "6",
+        "kind": "nature"
+      },
+      {
+        "name": "Cotton string",
+        "quantity": "1 × 60 cm",
+        "kind": "home"
+      },
+      {
+        "name": "Large paper clips",
+        "quantity": "6",
+        "kind": "home"
+      },
+      {
+        "name": "Removable wall tape",
+        "quantity": "2 pieces",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult manages the string and display location. Keep the garland away from beds, necks, heaters, flames and active play; no outdoor hanging.",
+    "littleRole": "",
+    "youngRole": "Plan the colour order and clip leaves at even intervals.",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Sort the colours",
+        "text": "Lay six leaves on the table. Choose a repeating order, such as gold, orange, red, then gold, orange, red. Check that each leaf has a firm stem or strong base.",
+        "littleTask": "",
+        "youngTask": "Choose the sequence.",
+        "adultTask": "Check leaves and remove brittle or unsuitable pieces.",
+        "diagram": "/assets/steps/FAL-04-1.svg"
+      },
+      {
+        "title": "Lay out the string",
+        "text": "Place the 60 cm string straight on the table. Leave 10 cm clear at each end. Lay the six leaves along the middle with roughly 7 cm between them.",
+        "littleTask": "",
+        "youngTask": "Adjust the spacing before attaching.",
+        "adultTask": "Handle and supervise the string.",
+        "diagram": "/assets/steps/FAL-04-2.svg"
+      },
+      {
+        "title": "Clip the first leaf",
+        "text": "Fold a leaf stem over the string. Slide a large paper clip over the folded stem so it holds both stem and string together. If the stem snaps, clip the broad leaf base instead.",
+        "littleTask": "",
+        "youngTask": "Try the first attachment.",
+        "adultTask": "Help with firm clips and fragile stems.",
+        "diagram": "/assets/steps/FAL-04-3.svg"
+      },
+      {
+        "title": "Repeat the pattern",
+        "text": "Clip the remaining five leaves in the chosen order. Keep the garland lying flat. Gently slide the clips to balance the spaces, then check each leaf stays in place.",
+        "littleTask": "",
+        "youngTask": "Check the colour order and gaps.",
+        "adultTask": "Inspect clips and loose pieces.",
+        "diagram": "/assets/steps/FAL-04-4.svg"
+      },
+      {
+        "title": "Display with an adult",
+        "text": "An adult tapes both string ends to a suitable indoor display point beyond children’s reach. Use a shallow curve with no long dangling ends. Take it down if leaves begin to crumble.",
+        "littleTask": "",
+        "youngTask": "Choose a title for the garland.",
+        "adultTask": "Choose the location, attach both ends and remove it after display.",
+        "diagram": "/assets/steps/FAL-04-5.svg"
+      }
+    ],
+    "keep": "Display temporarily indoors and check for crumbling leaves.",
+    "cleanup": "Remove clips and string for reuse, then sort the leaves.",
+    "extension": "Try a colour gradient from green to gold to red.",
+    "examples": [
+      "Amber leaf row",
+      "Colour-gradient garland",
+      "Alternating large and small leaves"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "FAL-05",
+    "title": "A twig-and-leaf picture frame",
+    "subtitle": "Give your favourite drawing a woodland home.",
+    "description": "Decorate an adult-prepared cardboard frame with twigs and leaf corners. The cardboard provides the structure.",
+    "season": "fall",
+    "ages": [
+      "little",
+      "young"
+    ],
+    "together": true,
+    "minutes": 30,
+    "prepMinutes": 10,
+    "setting": "At a table",
+    "difficulty": "A little adventure",
+    "tags": [
+      "twigs",
+      "leaves",
+      "cardboard"
+    ],
+    "materials": [
+      {
+        "name": "Cardboard rectangle, 20 × 25 cm, with 12 × 17 cm window",
+        "quantity": "1, adult-prepared",
+        "kind": "home"
+      },
+      {
+        "name": "Smooth twigs matching the four frame sides",
+        "quantity": "4",
+        "kind": "nature"
+      },
+      {
+        "name": "Flat fallen leaves",
+        "quantity": "4",
+        "kind": "nature"
+      },
+      {
+        "name": "Paper tape",
+        "quantity": "12 short pieces",
+        "kind": "home"
+      },
+      {
+        "name": "Drawing or photograph, about 15 × 20 cm",
+        "quantity": "1",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult cuts the cardboard window and prepares twig lengths. This frame rests on a shelf or table; it is not designed to hang above anyone.",
+    "littleRole": "Choose leaf corners and place twigs on an adult-prepared frame.",
+    "youngRole": "Plan the border and tape the twigs securely.",
+    "togetherPlan": "Younger makers arrange the leaf corners; older makers build the twig border. Choose a picture together.",
+    "steps": [
+      {
+        "title": "Choose the picture",
+        "text": "Set the cardboard frame over a drawing or photograph to check the window. Keep the picture aside while decorating. Place the frame flat on the table.",
+        "littleTask": "Choose the picture.",
+        "youngTask": "Check that the picture overlaps the window edges.",
+        "adultTask": "Prepare the cardboard window and smooth edges.",
+        "diagram": "/assets/steps/FAL-05-1.svg"
+      },
+      {
+        "title": "Lay out four twig sides",
+        "text": "Place one twig on each cardboard side. Keep all twig ends within the outer cardboard edge. Leave the corners clear enough for leaves.",
+        "littleTask": "Match twigs to the sides.",
+        "youngTask": "Adjust spacing around the window.",
+        "adultTask": "Prepare twig lengths without child cutting.",
+        "diagram": "/assets/steps/FAL-05-2.svg"
+      },
+      {
+        "title": "Tape the twig border",
+        "text": "At two points on each side, wrap a short strip of tape over the twig, around the outer cardboard edge and onto the back. Press firmly so the twig cannot roll.",
+        "littleTask": "Hold a twig in place.",
+        "youngTask": "Wrap and press each tape join.",
+        "adultTask": "Help attach and check all four twigs.",
+        "diagram": "/assets/steps/FAL-05-3.svg"
+      },
+      {
+        "title": "Add leaf corners",
+        "text": "Make a small tape loop behind each leaf and press it onto a cardboard corner. Choose leaves that do not cover the picture window. Add another loop if a leaf lifts.",
+        "littleTask": "Arrange the four leaves.",
+        "youngTask": "Balance the leaf shapes.",
+        "adultTask": "Prepare tape loops for younger makers.",
+        "diagram": "/assets/steps/FAL-05-4.svg"
+      },
+      {
+        "title": "Fit the artwork",
+        "text": "Turn the frame over carefully. Centre the picture face-down over the window and tape its four edges to the back. Turn it upright and lean it against a stable wall on a low shelf.",
+        "littleTask": "Admire the picture.",
+        "youngTask": "Centre and attach the artwork.",
+        "adultTask": "Check the display is stable and out of younger children’s reach.",
+        "diagram": "/assets/steps/FAL-05-5.svg"
+      }
+    ],
+    "keep": "Keep indoors and dry; replace leaves when they become brittle.",
+    "cleanup": "Remove the photograph, tape and natural pieces. Reuse the frame if it remains sturdy.",
+    "extension": "Frame a leaf rubbing made in spring.",
+    "examples": [
+      "Simple square frame",
+      "Leaf-corner rectangle",
+      "Twig-bordered nature drawing"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "FAL-06",
+    "title": "Make a Leafy Friend",
+    "subtitle": "A fox, an owl, or someone only you could imagine.",
+    "description": "Turn colourful fallen leaves into a friendly animal. Layer a body, ears, wings and a face on the ground or on card. Make it cute, funny or wonderfully unusual.",
+    "ages": [
+      "little",
+      "young"
+    ],
+    "together": true,
+    "minutes": 25,
+    "prepMinutes": 5,
+    "setting": "Outside or at a table",
+    "difficulty": "Easy does it",
+    "tags": [
+      "leaves",
+      "animals",
+      "leaf art",
+      "all ages",
+      "fall"
+    ],
+    "materials": [
+      {
+        "name": "Fallen leaves in different colours, sizes and shapes",
+        "quantity": "10–30",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Smooth short fallen twigs",
+        "quantity": "2–6",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Flat ground, a reusable tray or a sheet of card",
+        "quantity": "1 work space",
+        "kind": "home",
+        "optional": false
+      },
+      {
+        "name": "Paper eye circles and a crayon for other animal variations",
+        "quantity": "2 circles + 1 crayon",
+        "kind": "home",
+        "optional": true
+      },
+      {
+        "name": "Flat smooth pebbles too large to swallow, for owl eyes",
+        "quantity": "2–3",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Child-safe water-based craft glue, for a card-backed version only",
+        "quantity": "A few small dabs, optional",
+        "kind": "home",
+        "optional": true
+      }
+    ],
+    "adultNote": "Check leaves and twigs before use. A grown-up chooses smooth flat pebbles too large to swallow for owl eyes. Avoid tiny loose craft eyes. Glue is optional and chosen by a grown-up. Keep glued artwork on card and take it indoors.",
+    "littleRole": "Choose the colours, place a big body leaf and give your friend a face.",
+    "youngRole": "Layer smaller leaves to make patterned feathers, fur, wings or a tail.",
+    "togetherPlan": "A Little Maker chooses the creature and places the big shapes. A Young Creator layers the details. Decide on its name together.",
+    "steps": [
+      {
+        "title": "Find your fall colours",
+        "text": "Collect loose fallen leaves where picking them up is allowed. Sort them by colour and shape beside a flat work space. Choose a few smooth twigs for legs or whiskers.",
+        "littleTask": "Pick your favourite colours.",
+        "youngTask": "Sort broad body leaves and smaller detail leaves.",
+        "adultTask": "Check the materials and choose suitable large flat pebbles for the owl eyes.",
+        "diagram": "/assets/steps/FAL-06-1.svg"
+      },
+      {
+        "title": "Give your friend a body",
+        "text": "Lay a large leaf flat for the body. Try a smaller leaf above or beside it for the head. Turn the leaves around until you see a fox, owl, bird or an invented creature.",
+        "littleTask": "Place the body and head.",
+        "youngTask": "Experiment with the direction and shape of the head.",
+        "adultTask": "",
+        "diagram": "/assets/steps/FAL-06-2.svg"
+      },
+      {
+        "title": "Layer ears, wings and tails",
+        "text": "Overlap smaller leaves to build ears, wings, a tail or fluffy-looking fur. A row of yellow leaves can become owl feathers. Keep moving the pieces until your friend feels like yours.",
+        "littleTask": "Add two ears or wings.",
+        "youngTask": "Build a repeating layered pattern across the body.",
+        "adultTask": "",
+        "diagram": "/assets/steps/FAL-06-3.svg"
+      },
+      {
+        "title": "Add a friendly face",
+        "text": "For the owl, lay two smooth flat pebbles on the leaf face for eyes and add a small leaf beak. Lay twigs flat for legs. Other creatures can use paper eyes or features drawn on the backing. Leave everything loose, or ask a grown-up to help glue leaves onto card; keep the pebble eyes loose.",
+        "littleTask": "Choose a happy, sleepy or silly face.",
+        "youngTask": "Add balanced details and small leaf eyebrows.",
+        "adultTask": "Use only small dabs of approved glue on card if chosen; follow its drying directions.",
+        "diagram": "/assets/steps/FAL-06-4.svg"
+      },
+      {
+        "title": "Meet your leafy friend",
+        "text": "Give your creation a name and a personality. Add a leaf hat or a little leafy home if you like. Take a picture before moving it; the loose version is meant to stay flat.",
+        "littleTask": "Tell us your friend’s name.",
+        "youngTask": "Invent a short story or a second leafy friend.",
+        "adultTask": "Photograph the project without identifying details, then help tidy up.",
+        "diagram": "/assets/steps/FAL-06-5.svg"
+      }
+    ],
+    "keep": "Loose leaf art is temporary. Display a card-backed version flat indoors; leaves may curl and change colour as they dry.",
+    "cleanup": "Take all paper, glue and craft pieces home. Reuse the tray and return loose natural pieces only where permitted. Wash hands after making.",
+    "extension": "Make the same animal again with different leaf shapes, or invent a whole family with different expressions.",
+    "examples": [
+      "A golden leaf owl",
+      "An olive-green leaf rabbit",
+      "A red-and-orange leaf fish"
+    ],
+    "waitLabel": "Optional glue: allow the drying time on its label.",
+    "season": "fall",
+    "showInstructions": true,
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed."
+  },
+  {
+    "id": "FAL-07",
+    "title": "Fall Fairy Garden",
+    "subtitle": "A leafy little world, with a story all your own.",
+    "description": "Build a small twig shelter with an overlapping leaf roof, then add paths and a garden. A rock or tree can help support your design. Paper fairies are optional; imagination is the main ingredient.",
+    "ages": [
+      "young"
+    ],
+    "together": false,
+    "minutes": 50,
+    "prepMinutes": 10,
+    "setting": "Outside on permitted soft soil",
+    "difficulty": "A bigger challenge",
+    "tags": [
+      "leaves",
+      "twigs",
+      "soil",
+      "fairy garden",
+      "building",
+      "fall"
+    ],
+    "materials": [
+      {
+        "name": "Sturdy, blunt forked fallen twigs for uprights, about 10–20 cm long",
+        "quantity": "4",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Smooth short fallen twigs for roof crosspieces and sides",
+        "quantity": "8–14",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Broad fallen leaves for a roof and garden",
+        "quantity": "10–15",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Flat stones for a path, too large to swallow",
+        "quantity": "8–12",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Clean soil from a grown-up-approved place; clay-rich soil may hold better",
+        "quantity": "About 1 cup",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Water, added a little at a time",
+        "quantity": "A small cup",
+        "kind": "home",
+        "optional": false
+      },
+      {
+        "name": "Small reusable bowl and spoon or mixing stick",
+        "quantity": "1 of each",
+        "kind": "home",
+        "optional": false
+      },
+      {
+        "name": "Permitted patch of soft ground beside a stable rock or tree",
+        "quantity": "About 40 × 40 cm",
+        "kind": "home",
+        "optional": false
+      },
+      {
+        "name": "Paper scraps, crayons and child-safe scissors for optional fairies",
+        "quantity": "A few scraps + 1 set",
+        "kind": "home",
+        "optional": true
+      }
+    ],
+    "adultNote": "This is a miniature garden for play, not a shelter for a child or animal. Choose clean soil and a place where collecting and building are allowed. Keep twigs blunt and low. Do not cut into roots, damage bark, take living moss or disturb habitats. Supervise optional scissors.",
+    "littleRole": "",
+    "youngRole": "Plan a stable low shelter, overlap the roof leaves and design a path and garden.",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Choose a little corner",
+        "text": "With a grown-up, choose a small patch of soft ground beside a stable rock or tree. Leave roots and living plants untouched. Point out where your shelter, door, path and garden will go.",
+        "littleTask": "",
+        "youngTask": "Sketch the layout with a twig or point out each area.",
+        "adultTask": "Approve a clean, permitted spot away from roots and small habitats.",
+        "diagram": "/assets/steps/FAL-07-1.svg"
+      },
+      {
+        "title": "Build a steady twig frame",
+        "text": "Press four blunt forked twigs a short way into soft soil. Nest roof crosspieces in the forks, beside the rock or tree. Add a few side twigs, leaving a doorway. Keep it low and test that the pieces stay in place.",
+        "littleTask": "",
+        "youngTask": "Adjust the supports until the low roof frame feels steady.",
+        "adultTask": "Help place supports; stop if you meet a root or need force. Do not lean on loose rocks.",
+        "diagram": "/assets/steps/FAL-07-2.svg"
+      },
+      {
+        "title": "Mix a little mud paste",
+        "text": "Put a few spoonfuls of soil in the bowl. Add water a little at a time and stir until it is thick, not runny. Try a small dab on two leaves. Some soil will not stick well; twigs will still support the roof.",
+        "littleTask": "",
+        "youngTask": "Add water slowly and compare a thick dab with a runny one.",
+        "adultTask": "Use clean soil, keep mud away from mouths and eyes, and help judge the consistency.",
+        "diagram": "/assets/steps/FAL-07-3.svg"
+      },
+      {
+        "title": "Make an overlapping leaf roof",
+        "text": "Lay broad leaves over the twig crosspieces, starting at the low edge and overlapping toward the top. Add small dabs of mud paste where leaves overlap. If they slide, add a light twig to hold them in place.",
+        "littleTask": "",
+        "youngTask": "Overlap leaves like roof tiles and check the support underneath.",
+        "adultTask": "Mud is a temporary paste, not strong glue. Help lower or support any unstable parts.",
+        "diagram": "/assets/steps/FAL-07-4.svg"
+      },
+      {
+        "title": "Let your garden tell a story",
+        "text": "Arrange a winding stone path, a leaf garden or a tiny twig bench. Add paper fairies if you want, or leave space for imagined visitors. Use the examples for ideas, then add your own colours and details.",
+        "littleTask": "",
+        "youngTask": "Create one detail that makes the garden your own.",
+        "adultTask": "Help cut optional paper fairies, keep them loose, and bring paper indoors after play.",
+        "diagram": "/assets/steps/FAL-07-5.svg"
+      }
+    ],
+    "keep": "Enjoy the garden for the making session and photograph it. Mud and leaves will change as they dry or get wet, so the roof is not permanent or weatherproof.",
+    "cleanup": "Remove paper and all added craft materials. Take down the twig frame when play ends, leave roots and habitats undisturbed, and wash hands and tools.",
+    "extension": "Invent who lives in the garden, add a second tiny resting place, or redesign the path without copying an example exactly.",
+    "examples": [
+      "A rock-side leaf cottage",
+      "A tiny garden with a paper fairy",
+      "A tree-side twig hideaway"
+    ],
+    "waitLabel": "Mud paste is temporary and may not hold every kind of leaf.",
+    "season": "fall",
+    "showInstructions": true,
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed."
+  },
+  {
+    "id": "FAL-08",
+    "title": "Fall Mandalas",
+    "subtitle": "One little centre. Endless ways to grow.",
+    "description": "Start in the middle and grow a circular pattern with fallen leaves, twigs, stones and pinecones. Add a new pattern with each ring. Make it cute, fierce, colourful or beautifully simple.",
+    "ages": [
+      "little",
+      "young"
+    ],
+    "together": true,
+    "minutes": 30,
+    "prepMinutes": 5,
+    "setting": "Outside on a flat surface",
+    "difficulty": "Make it simple or detailed",
+    "tags": [
+      "leaves",
+      "twigs",
+      "pebbles",
+      "pinecones",
+      "patterns",
+      "mandala",
+      "fall"
+    ],
+    "materials": [
+      {
+        "name": "Fallen leaves in a few colours and shapes",
+        "quantity": "A few handfuls",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Smooth short fallen twigs",
+        "quantity": "6–12, or what you find",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Smooth stones too large to swallow",
+        "quantity": "6–12, or what you find",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Fallen pinecones",
+        "quantity": "3–8, or what you find",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Flat ground or a reusable tray",
+        "quantity": "1 clear space",
+        "kind": "home",
+        "optional": false
+      }
+    ],
+    "adultNote": "Use loose, fallen pieces where collecting is allowed. An adult checks materials and chooses sizes suitable for the children. Skip unknown berries, sharp shells and tiny loose pieces. No glue or scissors are needed.",
+    "littleRole": "Choose the centre and place a simple repeated ring of leaves.",
+    "youngRole": "Add new repeating patterns, colour changes and balanced spacing in each outer ring.",
+    "togetherPlan": "Little Makers build the centre and first leaf ring. Young Creators add outer patterns. Take turns choosing what the next circle will look like.",
+    "steps": [
+      {
+        "title": "Gather a pattern collection",
+        "text": "Look for loose leaves, smooth twigs, suitable stones and pinecones. You can make a mandala with leaves alone. Sort what you find into little piles and choose a flat, clear place to work.",
+        "littleTask": "Sort leaves into colour piles.",
+        "youngTask": "Look for several pieces with similar sizes and shapes.",
+        "adultTask": "Check collected pieces and approve the work space.",
+        "diagram": "/assets/steps/FAL-08-1.svg"
+      },
+      {
+        "title": "Choose your centre",
+        "text": "Place one favourite leaf, stone or pinecone in the middle. Leave room around it for the pattern to grow. Turn your centre piece until it looks the way you want.",
+        "littleTask": "Choose and place the centre.",
+        "youngTask": "Plan how wide the first ring will be.",
+        "adultTask": "",
+        "diagram": "/assets/steps/FAL-08-2.svg"
+      },
+      {
+        "title": "Make your first circle",
+        "text": "Arrange leaves around the centre, pointing inward or outward. Repeat a colour or alternate two shapes all the way around. Leave gaps if you like; the circle does not need to be perfect.",
+        "littleTask": "Repeat your favourite leaf colour.",
+        "youngTask": "Try an alternating red-yellow or broad-narrow pattern.",
+        "adultTask": "",
+        "diagram": "/assets/steps/FAL-08-3.svg"
+      },
+      {
+        "title": "Grow a new pattern each ring",
+        "text": "Add an outer ring with a different repeated pattern: twig, stone, twig, stone, or leaves between pinecones. Build another loop if there is room. Use the materials you have, and stop at any size.",
+        "littleTask": "Place a leaf or stone in each gap.",
+        "youngTask": "Change the repeating rule for each new ring.",
+        "adultTask": "",
+        "diagram": "/assets/steps/FAL-08-4.svg"
+      },
+      {
+        "title": "Give it your own character",
+        "text": "Look at the whole design. Make the leaves look like sun rays, soft petals or fierce spikes, or keep a calm repeating pattern. Change any pieces you want and take a picture of your finished mandala.",
+        "littleTask": "Choose whether it feels cute, fierce or beautiful.",
+        "youngTask": "Adjust spacing, add a final border, and explain your pattern.",
+        "adultTask": "Photograph the design, then help restore the space without disturbing living things.",
+        "diagram": "/assets/steps/FAL-08-5.svg"
+      }
+    ],
+    "keep": "This is temporary outdoor art. Take a picture before wind or weather changes the pattern.",
+    "cleanup": "Clear paths and play areas when finished. Return loose natural materials only where permitted and leave living plants and small habitats as you found them.",
+    "extension": "Make a tiny mandala beside a larger one, try only two colours, or let a different person design each new ring.",
+    "examples": [
+      "A glowing leaf sun",
+      "A woodland ring of cones and stones",
+      "A colourful layered fall circle"
+    ],
+    "waitLabel": "",
+    "season": "fall",
+    "showInstructions": true,
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed."
+  },
+  {
+    "id": "FAL-09",
+    "title": "Meet your fall friends",
+    "subtitle": "Leaf dresses, twig arms and a little woodland personality.",
+    "description": "Make leaf fairies and woodland characters with twig limbs, leafy clothes and expressive faces. Keep them loose on the ground or make a flat picture on card. Extra cutting and tiny details are optional.",
+    "ages": [
+      "young"
+    ],
+    "together": false,
+    "minutes": 40,
+    "prepMinutes": 10,
+    "setting": "Outside or at a table",
+    "difficulty": "A bigger challenge",
+    "tags": [
+      "leaves",
+      "twigs",
+      "fairies",
+      "characters",
+      "paper",
+      "fall"
+    ],
+    "materials": [
+      {
+        "name": "Fallen leaves for clothes, hair and wings",
+        "quantity": "6–12 per friend",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Smooth, blunt fallen twigs for a body and limbs",
+        "quantity": "4–6 per friend",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Flat ground, a reusable tray or card backing",
+        "quantity": "1 work space",
+        "kind": "home",
+        "optional": false
+      },
+      {
+        "name": "Paper face circle prepared by a grown-up and a crayon",
+        "quantity": "1 circle + 1 crayon",
+        "kind": "home",
+        "optional": true
+      },
+      {
+        "name": "Child-safe scissors for optional leaf or paper details",
+        "quantity": "1 pair with supervision",
+        "kind": "home",
+        "optional": true
+      },
+      {
+        "name": "Child-safe water-based craft glue, chosen by a grown-up",
+        "quantity": "A few small dabs for card only",
+        "kind": "home",
+        "optional": true
+      },
+      {
+        "name": "Clean soil and a little water for optional temporary mud paste",
+        "quantity": "A few spoonfuls",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Small reusable bowl and spoon if mixing mud",
+        "quantity": "1 of each",
+        "kind": "home",
+        "optional": true
+      }
+    ],
+    "adultNote": "Supervise scissors and prepare small paper shapes if needed. Use naturally shaped leaves for a no-cut version. A grown-up chooses any glue; keep it on card and take the artwork indoors. Mud can hold some flat pieces briefly but will not make a strong upright puppet.",
+    "littleRole": "",
+    "youngRole": "Design the character, layer leaf clothes and add a face, wings or a leafy hairstyle.",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Choose who you will meet",
+        "text": "Spread your leaves and twigs on a tray beside a flat work space. Imagine a fairy, forest explorer or funny leaf person. Choose broad leaves for clothes and smaller leaves for hair or wings.",
+        "littleTask": "",
+        "youngTask": "Pick colours and shapes that match your character.",
+        "adultTask": "Check materials and prepare a paper face circle if wanted.",
+        "diagram": "/assets/steps/FAL-09-1.svg"
+      },
+      {
+        "title": "Lay out the body and face",
+        "text": "Lay a short twig flat for the body. Add twig arms and legs around it. Place a paper circle or small leaf above the body for the face. Try a waving pose or a dancing pose before adding clothes.",
+        "littleTask": "",
+        "youngTask": "Arrange the limbs and head so the character is easy to recognise.",
+        "adultTask": "Help keep twig ends blunt and all pieces lying flat.",
+        "diagram": "/assets/steps/FAL-09-2.svg"
+      },
+      {
+        "title": "Dress your fall friend",
+        "text": "Overlap leaves over the body to make a dress, coat or tunic. Add leaf wings, a hat or colourful hair. Use each leaf’s natural shape, or ask a grown-up before making small cuts with child-safe scissors.",
+        "littleTask": "",
+        "youngTask": "Layer leaves from the bottom up and try different costumes.",
+        "adultTask": "Supervise any cutting; offer the no-cut version as an equally good choice.",
+        "diagram": "/assets/steps/FAL-09-3.svg"
+      },
+      {
+        "title": "Add details your way",
+        "text": "Draw a face on the paper or place leaf features. Leave the friend loose, or use a tiny dab of mud under flat pieces. For a card picture, a grown-up may help with approved glue. Keep it flat while it sets.",
+        "littleTask": "",
+        "youngTask": "Add an expression and choose whether to keep the pieces loose.",
+        "adultTask": "Mud is temporary. Use glue only on backing and follow its drying instructions; do not promise a standing puppet.",
+        "diagram": "/assets/steps/FAL-09-4.svg"
+      },
+      {
+        "title": "Introduce your fall friends",
+        "text": "Give each friend a name and a story. Arrange a little scene on the ground or beside your fairy garden. Photograph the finished friends. Your colours, clothes and characters can look completely different from the examples.",
+        "littleTask": "",
+        "youngTask": "Create a companion or tell a story about your character.",
+        "adultTask": "Bring paper and glued artwork indoors after play, and help tidy the work space.",
+        "diagram": "/assets/steps/FAL-09-5.svg"
+      }
+    ],
+    "keep": "Keep the characters flat. Photograph loose or mud-held friends; display a glued card picture indoors once it has dried.",
+    "cleanup": "Take all paper and glued materials home. Reuse tools and trays, clear the play space and wash hands after using soil.",
+    "extension": "Make friends with different moods, add a leafy pet, or introduce your characters to the Fall Fairy Garden.",
+    "examples": [
+      "A winged leaf fairy",
+      "A colourful leaf-dress friend",
+      "A playful twig-and-leaf character"
+    ],
+    "waitLabel": "Optional glue: follow its drying instructions. Mud holds only temporarily.",
+    "season": "fall",
+    "showInstructions": true,
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed."
+  },
+  {
+    "id": "WIN-01",
+    "title": "Make a little snowman",
+    "subtitle": "A small snowy friend with a big smile.",
+    "description": "Pack three small snowballs, stack them low and add a pressed face with removable twig arms.",
+    "season": "winter",
+    "ages": [
+      "little",
+      "young"
+    ],
+    "together": true,
+    "minutes": 30,
+    "prepMinutes": 5,
+    "setting": "Outside, in suitable snow",
+    "difficulty": "Adult help needed",
+    "tags": [
+      "snow",
+      "twigs"
+    ],
+    "materials": [
+      {
+        "name": "Clean packable snow",
+        "quantity": "A small safe patch",
+        "kind": "nature"
+      },
+      {
+        "name": "Smooth short twigs for arms and optional face details",
+        "quantity": "2–5",
+        "kind": "nature"
+      },
+      {
+        "name": "Blunt twig for pressing features",
+        "quantity": "1",
+        "kind": "nature"
+      },
+      {
+        "name": "Warm clothing and waterproof mittens",
+        "quantity": "1 set per maker",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult checks the weather, clothing and safe location away from roads, water, roof edges and falling ice. Keep the snowman about 30 cm tall and stop for warm-up breaks.",
+    "littleRole": "Pack the base and press the face with adult help.",
+    "youngRole": "Shape and stack smaller sections, then check balance.",
+    "togetherPlan": "Younger makers pack the broad base; older makers shape the upper sections. Add the face and name your friend together.",
+    "steps": [
+      {
+        "title": "Test a handful of snow",
+        "text": "With mittens on, squeeze a small handful. If it holds together, use that snow. If it remains powdery, switch to a flat snow picture rather than adding hot water or salt.",
+        "littleTask": "Squeeze a little snow.",
+        "youngTask": "Check whether the ball holds.",
+        "adultTask": "Choose a safe area and check conditions.",
+        "diagram": "/assets/steps/WIN-01-1.svg"
+      },
+      {
+        "title": "Pack a broad base",
+        "text": "Pack a snow mound about 15 cm wide on flat ground. Round the sides with mittened hands and flatten the top slightly. Keep the base broad and low.",
+        "littleTask": "Press the base firmly.",
+        "youngTask": "Shape a stable base.",
+        "adultTask": "Help pack the mound as needed.",
+        "diagram": "/assets/steps/WIN-01-2.svg"
+      },
+      {
+        "title": "Add two smaller balls",
+        "text": "Make a middle ball about 10 cm wide and a head about 7 cm wide. An adult helps set them on the base. Press a little snow into the joins so the stack stays still.",
+        "littleTask": "Pass small handfuls of snow.",
+        "youngTask": "Shape the middle and head.",
+        "adultTask": "Lift and steady the sections.",
+        "diagram": "/assets/steps/WIN-01-3.svg"
+      },
+      {
+        "title": "Press a face and add arms",
+        "text": "Use the blunt twig to press shallow eyes and a smile. An adult may instead place a few short, blunt twigs lightly in the surface for a nose or mouth. Press two short twigs gently into the sides for arms. Keep the face simple and every piece removable.",
+        "littleTask": "Choose the expression.",
+        "youngTask": "Place the arms evenly.",
+        "adultTask": "Check twig ends and place any facial pieces.",
+        "diagram": "/assets/steps/WIN-01-4.svg"
+      },
+      {
+        "title": "Meet your snowy friend",
+        "text": "Give the snowman a name and look at it from different sides. Collect the tool and remove every twig from the face and arms when finished. Leave only clean snow and take a warm-up break.",
+        "littleTask": "Name your snowman.",
+        "youngTask": "Tell a snowy story.",
+        "adultTask": "Check comfort, collect materials and return indoors when needed.",
+        "diagram": "/assets/steps/WIN-01-5.svg"
+      }
+    ],
+    "keep": "Enjoy the changing snow shape where permitted; it will melt.",
+    "cleanup": "Remove all twigs, tools and other added pieces before leaving.",
+    "extension": "Try a squat two-section friend with the same method.",
+    "examples": [
+      "Small three-section snowman",
+      "Squat two-section snowman",
+      "Tiny snowman family"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "WIN-02",
+    "title": "A pocket-sized snow village",
+    "subtitle": "A whole winter world, made small.",
+    "description": "Mould little snow houses with reusable cups, connect them with paths and invent the residents. No tunnels or climbable structures.",
+    "season": "winter",
+    "ages": [
+      "young"
+    ],
+    "together": false,
+    "minutes": 30,
+    "prepMinutes": 5,
+    "setting": "Outside, in suitable snow",
+    "difficulty": "A little adventure",
+    "tags": [
+      "snow",
+      "twigs"
+    ],
+    "materials": [
+      {
+        "name": "Clean packable snow",
+        "quantity": "A small safe patch",
+        "kind": "nature"
+      },
+      {
+        "name": "Reusable cups or small tubs, under 15 cm tall",
+        "quantity": "2",
+        "kind": "home"
+      },
+      {
+        "name": "Smooth blunt twig for marking",
+        "quantity": "1",
+        "kind": "nature"
+      },
+      {
+        "name": "Warm clothing and waterproof mittens",
+        "quantity": "1 set per maker",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult chooses a safe snow area and supervises weather breaks. Keep structures miniature and solid; no digging tunnels, hollow shelters or roofs people could enter.",
+    "littleRole": "",
+    "youngRole": "Mould low houses and design a village layout.",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Plan a small neighbourhood",
+        "text": "On flat snow, mark a patch about 50 cm across with the blunt twig. Draw where two houses and a path will go. Leave space to walk around the village.",
+        "littleTask": "",
+        "youngTask": "Sketch a simple layout in the snow.",
+        "adultTask": "Check the area and clothing.",
+        "diagram": "/assets/steps/WIN-02-1.svg"
+      },
+      {
+        "title": "Pack the first mould",
+        "text": "Fill a cup with packable snow, pressing each small handful down with a mitten. Level the top. If the snow will not pack, use a flat relief picture instead.",
+        "littleTask": "",
+        "youngTask": "Pack the cup without leaving large gaps.",
+        "adultTask": "Help test the snow.",
+        "diagram": "/assets/steps/WIN-02-2.svg"
+      },
+      {
+        "title": "Turn out two houses",
+        "text": "Turn the cup upside down onto the planned spot. Tap gently and lift it straight up. Make a second house with the other cup. Keep both solid and low.",
+        "littleTask": "",
+        "youngTask": "Lift the mould slowly and compare the shapes.",
+        "adultTask": "Help release a stuck mould without forcing it.",
+        "diagram": "/assets/steps/WIN-02-3.svg"
+      },
+      {
+        "title": "Connect the village",
+        "text": "Use the blunt twig to trace a shallow path between houses. Press a door and window shape onto each surface without hollowing out the buildings. Add a small snow courtyard if you like.",
+        "littleTask": "",
+        "youngTask": "Draw connected paths and shallow details.",
+        "adultTask": "Keep the markings shallow and structures solid.",
+        "diagram": "/assets/steps/WIN-02-4.svg"
+      },
+      {
+        "title": "Tell the winter story",
+        "text": "Give the village a name and invent its residents. Gather the cups and twig, check the area for anything left behind, and take a warm-up break.",
+        "littleTask": "",
+        "youngTask": "Tell a story that visits both houses.",
+        "adultTask": "Check everyone is comfortable and collect equipment.",
+        "diagram": "/assets/steps/WIN-02-5.svg"
+      }
+    ],
+    "keep": "Leave only snow where permitted and expect it to change with the weather.",
+    "cleanup": "Retrieve every tool and added material.",
+    "extension": "Arrange three low moulded houses around a round courtyard.",
+    "examples": [
+      "Two little snow houses",
+      "Village with a courtyard",
+      "Low snow towers and paths"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "WIN-03",
+    "title": "Pictures in the snow",
+    "subtitle": "Turn a snowy patch into a little canvas.",
+    "description": "Make a flat snow picture by drawing an outline, adding low shapes and pressing patterns into the surface.",
+    "season": "winter",
+    "ages": [
+      "little"
+    ],
+    "together": false,
+    "minutes": 20,
+    "prepMinutes": 5,
+    "setting": "Outside, in suitable snow",
+    "difficulty": "Easy does it",
+    "tags": [
+      "snow",
+      "twigs"
+    ],
+    "materials": [
+      {
+        "name": "Clean packable snow",
+        "quantity": "A safe patch about 40 cm wide",
+        "kind": "nature"
+      },
+      {
+        "name": "Smooth blunt twig",
+        "quantity": "1",
+        "kind": "nature"
+      },
+      {
+        "name": "Warm clothing and waterproof mittens",
+        "quantity": "1 set per maker",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult checks the location and weather and stays close. Keep the picture flat and low, with no digging, tunnels or tall structures.",
+    "littleRole": "Shape a simple snowy face, flower or animal.",
+    "youngRole": "",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Smooth a snow canvas",
+        "text": "Choose a flat patch about 40 cm wide. Pat the surface with mittened hands until it is gently even. Leave the snow on the ground rather than digging a hole.",
+        "littleTask": "Pat the canvas flat.",
+        "youngTask": "",
+        "adultTask": "Choose a safe area and check clothing.",
+        "diagram": "/assets/steps/WIN-03-1.svg"
+      },
+      {
+        "title": "Draw a broad outline",
+        "text": "Use the blunt twig to draw a large circle, flower or animal head. Keep the outline simple enough to follow with one finger.",
+        "littleTask": "Choose the picture shape.",
+        "youngTask": "",
+        "adultTask": "Guide the outline if needed.",
+        "diagram": "/assets/steps/WIN-03-2.svg"
+      },
+      {
+        "title": "Add low raised shapes",
+        "text": "Place small handfuls of snow inside the outline. Press them into shallow mounds no more than about 3 cm high. Add round cheeks, petals or two broad ears.",
+        "littleTask": "Press the raised pieces.",
+        "youngTask": "",
+        "adultTask": "Help pack pieces that crumble.",
+        "diagram": "/assets/steps/WIN-03-3.svg"
+      },
+      {
+        "title": "Press a pattern",
+        "text": "Use the twig tip or a mitten edge to press shallow dots and lines. Add eyes and a smile, petal lines or a fur pattern without making deep holes.",
+        "littleTask": "Choose dots or lines.",
+        "youngTask": "",
+        "adultTask": "Supervise the blunt tool.",
+        "diagram": "/assets/steps/WIN-03-4.svg"
+      },
+      {
+        "title": "Give the picture a name",
+        "text": "Stand beside the picture and look down at the shapes and shadows. Name it, collect the twig and take a warm-up break. Leave only snow behind.",
+        "littleTask": "Tell the picture’s story.",
+        "youngTask": "",
+        "adultTask": "Check comfort and gather the tool.",
+        "diagram": "/assets/steps/WIN-03-5.svg"
+      }
+    ],
+    "keep": "The picture changes with light, weather and melting; save a photo or drawing if desired.",
+    "cleanup": "Take the twig and all equipment home.",
+    "extension": "Try a simple animal face with two broad ears.",
+    "examples": [
+      "Snow animal face",
+      "Snow flower",
+      "Snow sun"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "WIN-04",
+    "title": "Winter twig stars",
+    "subtitle": "A little woodland sparkle, without the glitter.",
+    "description": "Arrange five similar twigs in a star, then secure the five outer points with short string ties. Make and display it indoors.",
+    "season": "winter",
+    "ages": [
+      "young"
+    ],
+    "together": false,
+    "minutes": 35,
+    "prepMinutes": 10,
+    "setting": "Indoors — no snow needed",
+    "difficulty": "Adult help needed",
+    "tags": [
+      "twigs",
+      "string"
+    ],
+    "materials": [
+      {
+        "name": "Smooth straight dry twigs, about 18 cm long",
+        "quantity": "5",
+        "kind": "nature"
+      },
+      {
+        "name": "Cotton string, pre-cut",
+        "quantity": "5 × 20 cm",
+        "kind": "home"
+      },
+      {
+        "name": "Paper for a star guide",
+        "quantity": "1 sheet",
+        "kind": "home"
+      },
+      {
+        "name": "Small paper snowflake, optional",
+        "quantity": "1",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult prepares twigs, ties or checks the joins and trims loose string. Display flat; do not wear it or leave string decorations outdoors.",
+    "littleRole": "",
+    "youngRole": "Follow the star layout and help wrap each join.",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Make a five-point guide",
+        "text": "Draw five dots around a circle on paper: one at the top, two at the sides and two lower down. Number them around the circle 1 to 5. Join 1 to 3 to 5 to 2 to 4 to 1.",
+        "littleTask": "",
+        "youngTask": "Draw the star guide.",
+        "adultTask": "Prepare smooth twigs of similar length.",
+        "diagram": "/assets/steps/WIN-04-1.svg"
+      },
+      {
+        "title": "Lay the five twigs",
+        "text": "Lay a twig along each line of the guide. Let twig ends overlap by about 2 cm at each outer point. Keep the star flat and adjust until the points are even.",
+        "littleTask": "",
+        "youngTask": "Match the five twigs to the guide.",
+        "adultTask": "Help keep the overlapping twigs in place.",
+        "diagram": "/assets/steps/WIN-04-2.svg"
+      },
+      {
+        "title": "Tie the first two points",
+        "text": "At one outer point, wrap a short string around the two overlapping twig ends three times, then tie a double knot. Repeat at the next point while an adult holds the star flat.",
+        "littleTask": "",
+        "youngTask": "Wrap each crossing neatly.",
+        "adultTask": "Tie or check the knots and hold the layout.",
+        "diagram": "/assets/steps/WIN-04-3.svg"
+      },
+      {
+        "title": "Secure the remaining points",
+        "text": "Tie the remaining three outer points the same way. Gently lift one edge to check the shape holds. Tighten a loose join, then have an adult trim long string tails.",
+        "littleTask": "",
+        "youngTask": "Check the five joins.",
+        "adultTask": "Finish knots and trim string tails.",
+        "diagram": "/assets/steps/WIN-04-4.svg"
+      },
+      {
+        "title": "Display your winter star",
+        "text": "Remove the paper guide and lay the star on a shelf. Tuck a small paper snowflake under a tie if desired. Keep it away from heat, flames and younger children.",
+        "littleTask": "",
+        "youngTask": "Choose a simple display spot.",
+        "adultTask": "Check the star and display location.",
+        "diagram": "/assets/steps/WIN-04-5.svg"
+      }
+    ],
+    "keep": "Keep dry indoors and inspect knots before moving.",
+    "cleanup": "Untie string for reuse and sort untreated twigs separately.",
+    "extension": "Make a second star of the same size and place them side by side.",
+    "examples": [
+      "Plain five-point star",
+      "Star with paper-snow accent",
+      "Two small stars together"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "",
+    "archived": true
+  },
+  {
+    "id": "WIN-05",
+    "title": "A snowy pinecone forest",
+    "subtitle": "A cosy winter world for the kitchen table.",
+    "description": "Stand pinecones in reusable clay, dab a little white paint onto the scales and arrange them into a tiny winter forest.",
+    "season": "winter",
+    "ages": [
+      "little",
+      "young"
+    ],
+    "together": true,
+    "minutes": 30,
+    "prepMinutes": 5,
+    "setting": "Indoors — no snow needed",
+    "difficulty": "Easy does it",
+    "tags": [
+      "pinecones",
+      "clay",
+      "paint"
+    ],
+    "materials": [
+      {
+        "name": "Dry pinecones checked by an adult",
+        "quantity": "3",
+        "kind": "nature"
+      },
+      {
+        "name": "Reusable modelling clay",
+        "quantity": "3 walnut-sized pieces",
+        "kind": "home"
+      },
+      {
+        "name": "Washable white poster paint",
+        "quantity": "1 teaspoon",
+        "kind": "home"
+      },
+      {
+        "name": "Small sponge or brush",
+        "quantity": "1",
+        "kind": "home"
+      },
+      {
+        "name": "Card or reusable tray, about 25 × 30 cm",
+        "quantity": "1",
+        "kind": "home"
+      }
+    ],
+    "adultNote": "An adult checks cone scales and the paint label. Protect the table and wash hands afterward. Painted cones must not be returned to natural habitats.",
+    "littleRole": "Press clay bases and dab snowy tips with help.",
+    "youngRole": "Arrange the forest and apply a light snow pattern.",
+    "togetherPlan": "Younger makers prepare the bases; older makers arrange and paint the trees. Plan a winding path together.",
+    "steps": [
+      {
+        "title": "Prepare three tree bases",
+        "text": "Flatten each piece of clay into a small disc on the tray. Space the three discs apart, leaving a clear path between them. Keep unused paint closed.",
+        "littleTask": "Press the clay discs.",
+        "youngTask": "Plan where the path will pass.",
+        "adultTask": "Check the cones and protect the workspace.",
+        "diagram": "/assets/steps/WIN-05-1.svg"
+      },
+      {
+        "title": "Stand the pinecone trees",
+        "text": "Press the wide end of each cone into a clay disc. Keep the cones upright and low. If one leans, widen its clay base and press it in a little more.",
+        "littleTask": "Choose which tree goes where.",
+        "youngTask": "Check the balance of each tree.",
+        "adultTask": "Help press pointed or awkward cones safely.",
+        "diagram": "/assets/steps/WIN-05-2.svg"
+      },
+      {
+        "title": "Make a light snow dab",
+        "text": "Put one teaspoon of paint on a scrap of card. Touch the sponge to the paint, then dab once on the scrap so it is not dripping.",
+        "littleTask": "Try a small practice dab.",
+        "youngTask": "Control how much paint is on the sponge.",
+        "adultTask": "Read the paint label and help prepare the small amount.",
+        "diagram": "/assets/steps/WIN-05-3.svg"
+      },
+      {
+        "title": "Add snowy tips",
+        "text": "Dab a little white paint on the outer tips of the cone scales. Leave brown spaces between dabs so the cone still shows. Turn the tray rather than holding the wet cone.",
+        "littleTask": "Dab the easy-to-reach tips.",
+        "youngTask": "Keep the snow pattern light and even.",
+        "adultTask": "Help reach awkward areas without touching sharp scales.",
+        "diagram": "/assets/steps/WIN-05-4.svg"
+      },
+      {
+        "title": "Let the forest dry",
+        "text": "Leave the tray flat until the paint is dry, following its label. Trace an imaginary path between the trees and name the forest. Wash the sponge and everyone’s hands.",
+        "littleTask": "Name the forest.",
+        "youngTask": "Tell a story along the path.",
+        "adultTask": "Manage paint cleanup and check drying before handling.",
+        "diagram": "/assets/steps/WIN-05-5.svg"
+      }
+    ],
+    "keep": "Keep indoors and dry. Paint drying time depends on the product and amount used.",
+    "cleanup": "Remove clay for reuse where clean. Dispose of painted cones as craft waste according to local rules; never return them outdoors.",
+    "extension": "Add a paper animal beside the trees after the paint dries.",
+    "examples": [
+      "One snowy pinecone tree",
+      "Three-tree forest",
+      "Forest around a winding path"
+    ],
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "waitLabel": "Allow paint to dry fully before moving; follow the paint label.",
+    "archived": true
+  },
+  {
+    "id": "WIN-06",
+    "title": "Make a little snow man",
+    "subtitle": "A handful of snow, a twiggy smile and a new winter friend.",
+    "description": "Build a snow person with its own character: a lumpy friend with a pine-cone hat, a classic carrot-nose snowman, or a funny upside-down one with boots. Start small, shape two or three snowballs, and make its face and pose your own.",
+    "ages": [
+      "little",
+      "young"
+    ],
+    "together": true,
+    "minutes": 25,
+    "prepMinutes": 5,
+    "setting": "Outside on a flat snowy patch",
+    "difficulty": "A simple snowy start",
+    "tags": [
+      "snow",
+      "snowman",
+      "winter",
+      "twigs",
+      "stones"
+    ],
+    "materials": [
+      {
+        "name": "Clean snow that packs when squeezed",
+        "quantity": "Several handfuls",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Short blunt fallen twigs",
+        "quantity": "2–4",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Smooth stones suitable for the children",
+        "quantity": "A few",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Fallen leaf or small pine cone",
+        "quantity": "1–2",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Carrot for a nose",
+        "quantity": "1",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Scarf and small boots for an upside-down variation",
+        "quantity": "1 set",
+        "kind": "home",
+        "optional": true
+      },
+      {
+        "name": "Warm outdoor clothes and waterproof mittens",
+        "quantity": "For each maker",
+        "kind": "home",
+        "optional": false
+      }
+    ],
+    "adultNote": "Choose a flat patch away from roads, water and overhead snow or ice. Check loose materials and choose stone sizes suitable for the children. Keep the snow person small and low, with no heavy lifting. Take warm-up breaks and stop if anyone feels cold or wet.",
+    "littleRole": "Pat the snowballs and choose the face and twig arms.",
+    "youngRole": "Help flatten the joining surfaces and give the snow person its own character.",
+    "togetherPlan": "A Little Maker shapes the base and picks the face. A Young Creator helps join the smaller snowball and add details. Work side by side and let the youngest maker choose the smile.",
+    "steps": [
+      {
+        "title": "Find snow that sticks together",
+        "text": "Dress warmly and choose a flat snowy patch with a grown-up. Squeeze a handful of clean snow in your mittens. If it holds together, you are ready. If it stays powdery, save this build for stickier snow rather than adding water that may freeze.",
+        "littleTask": "Squeeze a handful of snow.",
+        "youngTask": "Check whether the snow holds its shape.",
+        "adultTask": "Approve the place and check everyone is warm and dry.",
+        "diagram": "/assets/steps/WIN-06-1.svg"
+      },
+      {
+        "title": "Pat a sturdy little base",
+        "text": "Press several handfuls into one round snowball. Set it on the ground and flatten the bottom so it sits steadily. Keep it small enough to shape with your hands; this friend does not need giant rolled snowballs.",
+        "littleTask": "Pat a round base.",
+        "youngTask": "Flatten the bottom and check it sits steadily.",
+        "adultTask": "",
+        "diagram": "/assets/steps/WIN-06-2.svg"
+      },
+      {
+        "title": "Add a smaller snowball",
+        "text": "Make a smaller ball for the head. Flatten the top of the base a little, set the head on it and gently press loose snow around the join. You can add a small middle ball first for a three-ball friend. Keep the whole stack low and steady.",
+        "littleTask": "Shape the little head.",
+        "youngTask": "Help flatten and join the snowballs.",
+        "adultTask": "Help with joining if the snowballs wobble; make them smaller if needed.",
+        "diagram": "/assets/steps/WIN-06-3.svg"
+      },
+      {
+        "title": "Give your snow person a face",
+        "text": "Gently press suitable smooth stones into the head for eyes. Make a smile with a curved twig or marks in the snow and add two twig arms. Try a pine cone for a hat or a carrot for a nose. For an upside-down version, a grown-up can help put the face on the bottom ball and small boots on top of a low, stable stack.",
+        "littleTask": "Choose the eyes and smile.",
+        "youngTask": "Add arms and a hat or extra snow details.",
+        "adultTask": "Check twig ends and help with the upside-down variation; keep the stack low and steady.",
+        "diagram": "/assets/steps/WIN-06-4.svg"
+      },
+      {
+        "title": "Meet your little snow man",
+        "text": "Name your new friend and take a picture. Give it a snowball neighbour, a pine-cone hat or a different expression. Try a traditional snowman or an upside-down joke with a grown-up helping. Make each friend different, then head inside for a warm-up break.",
+        "littleTask": "Choose a name and say hello.",
+        "youngTask": "Make a neighbour with a different expression.",
+        "adultTask": "Collect loose decorations when play is finished, before the snow melts.",
+        "diagram": "/assets/steps/WIN-06-5.svg"
+      }
+    ],
+    "keep": "Snow changes with the weather. Enjoy your little friend outside during play and take a picture before it melts.",
+    "cleanup": "Gather every stone, twig, carrot and extra decoration when finished. Take any scarf and boots indoors, leave the snowy patch clear and dry your mittens.",
+    "extension": "Make a tiny family with different shapes and expressions, or give each snow person a name and a winter story.",
+    "examples": [
+      "A pine-cone-hat snow man",
+      "A classic carrot-nose snow man",
+      "An upside-down snow man with boots"
+    ],
+    "waitLabel": "Snow needs to pack together. Warm-up breaks are part of making.",
+    "season": "winter",
+    "showInstructions": true,
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "natureNote": "Use fallen or already-loose materials where collecting is allowed. Leave living plants and animals alone, and gather every decoration before the snow melts."
+  },
+  {
+    "id": "WIN-07",
+    "title": "A pocket-sized snow village",
+    "subtitle": "Twig-roof cottages, rounded snow houses or a tiny snow castle.",
+    "description": "Build a miniature village from snow, rocks and twigs. Try a twig-roof cottage, rounded snow houses with sprigs on top and twig-lined paths, or a tiny block-shaped snow castle. Mix different shapes and make a little winter world of your own.",
+    "ages": [
+      "young"
+    ],
+    "together": false,
+    "minutes": 40,
+    "prepMinutes": 5,
+    "setting": "Outside on a flat snowy patch",
+    "difficulty": "More detailed building",
+    "tags": [
+      "snow",
+      "village",
+      "houses",
+      "rocks",
+      "twigs",
+      "winter"
+    ],
+    "materials": [
+      {
+        "name": "Clean snow that packs when squeezed",
+        "quantity": "Enough for 2–3 small mounds",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Short blunt fallen twigs",
+        "quantity": "A small handful",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Small manageable smooth stones",
+        "quantity": "A small handful",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Small reusable cups or containers for shaping",
+        "quantity": "2–3",
+        "kind": "home",
+        "optional": true
+      },
+      {
+        "name": "Already-loose evergreen sprigs or dry stems",
+        "quantity": "A few",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Warm outdoor clothes and waterproof mittens",
+        "quantity": "For each maker",
+        "kind": "home",
+        "optional": false
+      }
+    ],
+    "adultNote": "Choose a flat place away from roads, water and overhead snow or ice. Keep every cottage hand-sized, solid and low; these are models, not shelters to enter. Use small stones at ground level and short blunt twigs. Take warm-up breaks and stop if anyone feels cold or wet.",
+    "littleRole": "",
+    "youngRole": "Choose the house shapes, decorate their roofs and connect the village with paths.",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Plan a tiny winter village",
+        "text": "Dress warmly and find a flat snowy patch with a grown-up. Test that a handful of snow holds together. Set out a few stones and short blunt twigs, then mark places for two or three hand-sized houses with room for paths between them.",
+        "littleTask": "",
+        "youngTask": "Choose where the cottages and paths will go.",
+        "adultTask": "Check the place, materials and weather; use snow that already packs together.",
+        "diagram": "/assets/steps/WIN-07-1.svg"
+      },
+      {
+        "title": "Shape solid snowy cottages",
+        "text": "Pat snow into two or three small solid mounds. Shape a cottage with a peaked roof, round houses with flat tops, or low rectangular castle blocks. You can pack snow into a cup or container and turn it out first. Keep each base broad and the inside solid.",
+        "littleTask": "",
+        "youngTask": "Try a peaked cottage, rounded house or block-shaped castle.",
+        "adultTask": "",
+        "diagram": "/assets/steps/WIN-07-2.svg"
+      },
+      {
+        "title": "Give each roof its character",
+        "text": "For a cottage, lay short twigs on the snowy roof slopes and dust them lightly with snow. For round houses, tuck an already-loose evergreen sprig or dry stem into each top. For a castle, shape low snow turrets. Let the solid snow support the details and keep rocks at ground level.",
+        "littleTask": "",
+        "youngTask": "Choose twig slopes, sprig-topped roofs or little snow turrets.",
+        "adultTask": "Check roof pieces and keep all the miniature buildings low and solid.",
+        "diagram": "/assets/steps/WIN-07-3.svg"
+      },
+      {
+        "title": "Add doors and village paths",
+        "text": "Press a shallow door shape into the front of each cottage without hollowing it out. Arrange a few stones at ground level around the doorway. Connect the houses with a finger-drawn path and use small stones or short twigs to mark its edges.",
+        "littleTask": "",
+        "youngTask": "Make door outlines and connect the cottages with paths.",
+        "adultTask": "",
+        "diagram": "/assets/steps/WIN-07-4.svg"
+      },
+      {
+        "title": "Tell a snowy village story",
+        "text": "Look around your tiny village. Try one twig-roof cottage, a group of round sprig-topped houses, or a snow castle with a pebble courtyard. Connect their doors with branching paths. Imagine who lives there, photograph the scene and gather your decorations before warming up inside.",
+        "littleTask": "",
+        "youngTask": "Give the cottages names and invent a village story.",
+        "adultTask": "Help collect all roof twigs and stones before leaving the making place.",
+        "diagram": "/assets/steps/WIN-07-5.svg"
+      }
+    ],
+    "keep": "The village is temporary outdoor play. Photograph the twig roofs and winding paths before snow and weather change them.",
+    "cleanup": "Gather all stones, twigs, sprigs, dry stems, containers and supplies. Leave the making place clear and bring outdoor clothes inside to dry.",
+    "extension": "Add a tiny snowy meeting place, draw a new route through the village, or tell a story about a visitor arriving at the smallest cottage.",
+    "examples": [
+      "A tiny twig-roof snow cottage",
+      "Round snow houses with twig paths",
+      "A tiny snow-block castle village"
+    ],
+    "waitLabel": "Hand-sized solid models only. Keep rocks at ground level.",
+    "season": "winter",
+    "showInstructions": true,
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "natureNote": "Use fallen or already-loose materials where collecting is allowed. Leave living plants and animals alone, and gather every decoration before the snow melts."
+  },
+  {
+    "id": "WIN-08",
+    "title": "Snowy Friends",
+    "subtitle": "Mice, rabbits, cats, a bear or a turtle: choose your snowy friend.",
+    "description": "Turn snow into mice, rabbits, cats, a bear or a turtle. Try tiny creatures, a seated animal or a flat shape on the ground. Older makers can practise shaping and joining snow, then add ears, whiskers and faces to create a friend with its own personality.",
+    "ages": [
+      "young"
+    ],
+    "together": false,
+    "minutes": 40,
+    "prepMinutes": 5,
+    "setting": "Outside on a flat snowy patch",
+    "difficulty": "A step beyond a snow person",
+    "tags": [
+      "snow",
+      "animals",
+      "sculpture",
+      "winter",
+      "creatures"
+    ],
+    "materials": [
+      {
+        "name": "Clean snow that packs when squeezed",
+        "quantity": "Several generous handfuls",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Smooth stones for eyes and a nose",
+        "quantity": "A few",
+        "kind": "nature",
+        "optional": false
+      },
+      {
+        "name": "Short blunt twigs or loose dry grass",
+        "quantity": "A few",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Small flat smooth pebbles for mouse ears; fallen leaves for cat ears",
+        "quantity": "2–4",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Small carrot or carrot pieces for noses",
+        "quantity": "1",
+        "kind": "nature",
+        "optional": true
+      },
+      {
+        "name": "Warm outdoor clothes and waterproof mittens",
+        "quantity": "For each maker",
+        "kind": "home",
+        "optional": false
+      }
+    ],
+    "adultNote": "For older makers practising more detailed shaping. Choose a flat place away from roads, water and overhead snow or ice. Start with a low body and broad joins. A grown-up can help with taller ears or seated animals; no hidden sticks are needed inside the snow. Check natural pieces, take warm-up breaks and stop if anyone feels cold or wet.",
+    "littleRole": "",
+    "youngRole": "Plan the animal shape, blend the joins and add recognisable details.",
+    "togetherPlan": "",
+    "steps": [
+      {
+        "title": "Choose a snowy creature",
+        "text": "Dress warmly and test a handful of snow with a grown-up. Choose mice, a rabbit, cat, bear, turtle or an invented creature. Think about its biggest shape first: an oval mouse, a seated animal or a low turtle shell. Snow that will not pack can wait for another day.",
+        "littleTask": "",
+        "youngTask": "Choose one creature and picture its main body shape.",
+        "adultTask": "Check the place and materials, and make sure everyone stays warm and dry.",
+        "diagram": "/assets/steps/WIN-08-1.svg"
+      },
+      {
+        "title": "Build one low body",
+        "text": "Press snow into a mound with a broad base. Smooth an oval mouse, a seated rabbit, cat or bear, or a wide dome for a turtle. Begin with a small body. A grown-up can help you build up a larger seated shape without lifting heavy snow.",
+        "littleTask": "",
+        "youngTask": "Build and smooth the main body before adding small parts.",
+        "adultTask": "",
+        "diagram": "/assets/steps/WIN-08-2.svg"
+      },
+      {
+        "title": "Shape and join the small parts",
+        "text": "Pinch a mouse snout from the front, or join a head and paws to a seated animal. Give a turtle a head and four flat flippers. A cat can have a curved tail supported along its body. Press extra snow around each join and blend it in; shorten parts that keep falling off.",
+        "littleTask": "",
+        "youngTask": "Add the head and limbs, then blend each join with loose snow.",
+        "adultTask": "",
+        "diagram": "/assets/steps/WIN-08-3.svg"
+      },
+      {
+        "title": "Add ears, a face and texture",
+        "text": "Shape long rabbit ears, pointed cat ears or round bear ears with broad bases and grown-up help. Mice can have small flat pebble ears, a carrot-tip nose and grass whiskers. Press each pebble partly into the snow so it stays steady. Fallen leaves can make pointed cat ears. Use stone eyes or shallow carved features. A blunt twig can mark a turtle shell or a cat face.",
+        "littleTask": "",
+        "youngTask": "Add the details that make your creature recognisable.",
+        "adultTask": "Check twig ends and natural pieces; keep the snow sculpture low and stable.",
+        "diagram": "/assets/steps/WIN-08-4.svg"
+      },
+      {
+        "title": "Introduce your snowy friend",
+        "text": "Look at your creature from a few sides and reshape any part you want. Name it, photograph it and try a small companion. Different-sized ears, a crooked smile or an uneven shell can make your friend special. Gather loose details and head inside for a warm-up break.",
+        "littleTask": "",
+        "youngTask": "Name your creature and decide what makes it special.",
+        "adultTask": "Help collect all stones, leaves and twig details before leaving.",
+        "diagram": "/assets/steps/WIN-08-5.svg"
+      }
+    ],
+    "keep": "Enjoy the sculpture outside during play. Take a picture to remember the details as the snow softens or melts.",
+    "cleanup": "Collect stones, leaves, grass, twigs, carrot pieces and pebble ears from the sculpture. Leave the snowy patch clear and dry your mittens indoors.",
+    "extension": "Make a whole snowy animal family, try both carved and pebble faces, or invent a creature by changing its body shape, ears or tail.",
+    "examples": [
+      "A pair of little snow mice",
+      "A rabbit and its little friend",
+      "A snow cat meets a tiny mouse",
+      "A seated snow cat",
+      "A round-eared snow bear",
+      "A flat snow turtle"
+    ],
+    "waitLabel": "Broad joins and short details are easier to keep in place.",
+    "season": "winter",
+    "showInstructions": true,
+    "reviewStatus": "Draft guide — not yet physically tested or reviewed.",
+    "natureNote": "Use fallen or already-loose materials where collecting is allowed. Leave living plants and animals alone, and gather every decoration before the snow melts."
+  }
+]

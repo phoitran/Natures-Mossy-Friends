@@ -1,0 +1,6 @@
+# Local example only. Copy to .dev.vars; never commit real credentials.
+# Use a monitored owner address on a real deployment.
+PRIVACY_CONTACT_EMAIL=privacy@example.invalid
+# These are only used by the independently configured Firebase build.
+FIREBASE_PROJECT_ID=
+FIREBASE_API_KEY=

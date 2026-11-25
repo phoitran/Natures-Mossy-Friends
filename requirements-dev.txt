@@ -1,0 +1,2 @@
+# Media validation and production scripts; tested in the export environment.
+Pillow==13.0.0

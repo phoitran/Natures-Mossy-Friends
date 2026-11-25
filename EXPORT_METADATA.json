@@ -1,0 +1,26 @@
+{
+  "project": "Natures Mossy Friends",
+  "owner": "Harli Cameron",
+  "requested_github_owner": "phoitran",
+  "export_date": "2026-11-24",
+  "published_site_version": 21,
+  "source_commit": "68ddd584154fa7324ea6554da003131b37a6cf59",
+  "live_url": "https://natures-mossy-friends.natalieforstbauer.chatgpt.site/",
+  "scope": "All 589 tracked source/media files from the original snapshot, plus documentation and local developer-check additions.",
+  "excluded": [
+    ".git history",
+    "node_modules",
+    "build outputs",
+    "local environment/secrets",
+    "production database and uploaded user photos"
+  ],
+  "export_changes": [
+    "Updated README and technical/coursework documentation",
+    "Retained existing MIT license unchanged",
+    "Added npm test/typecheck/media shortcuts and Node version hint",
+    "Added safe local environment template and media requirements",
+    "Added GitHub validation workflow; no deploy workflow",
+    "Added current PRD, source provenance and verification report"
+  ],
+  "github_publication_status": "Not yet uploaded; owner access required"
+}
