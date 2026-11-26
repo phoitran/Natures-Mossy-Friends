@@ -15,6 +15,8 @@ The app is a centralized website consisting of a variety of arts and crafts acti
 
 Users can also save an idea, resume unfinished crafts, or share a picture of their personal creation in the activitiy's gallery. The goal of the app to provide guardians and children fun and creative crafts that reduce waste and encourage outdoor activities.
 
+More details: [FEATURES.md](docs/FEATURES.md), [PRD.md](docs/PRD.md)
+
 ## Features
 
 **Find your next activity:** With over fifteen crafting ideas, users can filter by age group, seasonality, time required, or materials.
@@ -36,6 +38,8 @@ Users can also save an idea, resume unfinished crafts, or share a picture of the
 **Share your wonder:** user has the choice to share an image of their completed project and view others from the community.
 
 **Join the fun:** Users can make an account with their ChatGPT account to gain access to projects across all devices (in development)
+
+More details: [FEATURES.md](docs/FEATURES.md), [ROADMAP.md](docs/ROADMAP.md)
 
 ## Run locally
 
@@ -101,20 +105,6 @@ THIRD_PARTY_NOTICES.md  Dependency, media and narration licensing boundaries
 ```
 
 This export includes all tracked application files and shipped media from the source snapshot, plus updated documentation and developer check scripts. It excludes dependencies, compiled output, Git history, credentials, production databases and user-uploaded photos. Install dependencies instead of committing `node_modules`.
-
-## Documentation and coursework evidence
-
-| Requirement | Evidence in this repository |
-| --- | --- |
-| Explain what the app is and who it serves | This README; [FEATURES.md](docs/FEATURES.md); [PRD.md](docs/PRD.md) |
-| Explain its features and limitations | [FEATURES.md](docs/FEATURES.md); [ROADMAP.md](docs/ROADMAP.md) |
-| Explain technical components | [ARCHITECTURE.md](docs/ARCHITECTURE.md); [API.md](docs/API.md) |
-| Provide setup and verification instructions | [SETUP.md](docs/SETUP.md); [TESTING.md](docs/TESTING.md) |
-| Include a license file | [LICENSE](LICENSE); [third-party notices](THIRD_PARTY_NOTICES.md) |
-| Disclose AI assistance | [AI_ASSISTANCE.md](docs/AI_ASSISTANCE.md); original prompt/production notes in `docs/` |
-| Make the work reviewable on GitHub | [GITHUB_SETUP.md](docs/GITHUB_SETUP.md); upload the extracted source and give the instructor repository access |
-
-Documentation and code are ready for repository review. This file does not claim the GitHub upload is complete, a grade is guaranteed, or a Replit deployment exists.
 
 ## AI assistance and authorship
 
