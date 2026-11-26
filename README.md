@@ -1,8 +1,8 @@
 # Natures-Mossy-Friends
 
 **University of Calgary - Haskayne School of Business**
-**ENTI 333 L02 Group 17:**
-**Khadija Adeeb, Harli Cameron, Ren Chen, Diana Garcia Martinez, Nabiha Khan, and Phoi Tran**
+
+**ENTI 333 L02 Group 17:** Khadija Adeeb, Harli Cameron, Ren Chen, Diana Garcia Martinez, Nabiha Khan, and Phoi Tran
 
 Little things. Big imaginations. Made for the moments together.
 
